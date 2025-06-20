@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "2c678d5e21599ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddbafd22da5dac40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81c7467c95d8523c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Projects/IA Pod Courses/Introducción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introducción"
+            }
+          },
+          {
+            "id": "60fa9e2e74811b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Resources/AI POD Engineering Expert/Que es un AI Pod.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Que es un AI Pod"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26d73d1b63d66d71",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9d48b1cddbf0ddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97e248fc6fac513e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0e9df5e9ffafe03d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "180ca8ac95957b73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "17ed0a2c66c47875",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf9ecba44f6c4e11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4c273bcd920b89f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 Resources/AI POD Engineering Expert/Que es un AI Pod.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Que es un AI Pod"
+            }
+          },
+          {
+            "id": "1ea0de253f781faf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 Resources/AI POD Engineering Expert/Que es un AI Pod.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Que es un AI Pod"
+            }
+          },
+          {
+            "id": "c8568d8706498d77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d5443ad71ccc69f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 Resources/AI POD Engineering Expert/Que es un AI Pod.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Que es un AI Pod"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "60fa9e2e74811b88",
+  "lastOpenFiles": [
+    "1 Projects/IA Pod Courses/Introducción.md",
+    "3 Resources/AI POD Engineering Expert/Que es un AI Pod.md",
+    "0 Inbox/Terminar los cursos de IA.md",
+    "3 Resources/AI POD Engineering Expert/The AI POD Engineering Expert Role.md",
+    "3 Resources/AI POD Engineering Expert",
+    "1 Projects/IA Pod Courses",
+    "PARA.md",
+    "Untitled.canvas",
+    "4 Archive",
+    "3 Resources",
+    "2 Areas",
+    "1 Projects",
+    "0 Inbox",
+    "Welcome.md"
+  ]
+}
