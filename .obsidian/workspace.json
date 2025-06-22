@@ -4,81 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddbafd22da5dac40",
+        "id": "b93c46823d988155",
         "type": "tabs",
         "children": [
           {
-            "id": "81c7467c95d8523c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/IA Pod Courses/Introducción.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introducción"
-            }
-          },
-          {
-            "id": "60fa9e2e74811b88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Resources/AI POD Engineering Expert/Que es un AI Pod.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Que es un AI Pod"
-            }
-          },
-          {
-            "id": "7ecb41fb57a4adcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Inbox/Terminar los cursos de IA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terminar los cursos de IA"
-            }
-          },
-          {
-            "id": "aa2e25d8c2d85ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Resources/HTML5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML5"
-            }
-          },
-          {
-            "id": "1f9e11d38f024683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Resources/HTML5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML5"
-            }
-          },
-          {
-            "id": "755dc4c2409ed8a5",
+            "id": "8568571e69e60e2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,17 +22,35 @@
             }
           },
           {
-            "id": "af65fd8677dc93b3",
+            "id": "8076b80ed50580f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 Resources/HTML5/Clasificación de las etiquetas HTML5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clasificación de las etiquetas HTML5"
+            }
+          },
+          {
+            "id": "9151b517b2be3787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Resources/HTML5/Árbol de Contenido HTML Simplificado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Árbol de Contenido HTML Simplificado"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,13 +198,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af65fd8677dc93b3",
+  "active": "8076b80ed50580f9",
   "lastOpenFiles": [
-    "0 Inbox/Terminar curso de diseño web.md",
-    "0 Inbox/Terminar los cursos de IA.md",
+    "3 Resources/HTML5/HTML5.md",
     "1 Projects/Diseño Web/Programa de Estudio.md",
+    "3 Resources/HTML5/Clasificación de las etiquetas HTML5.md",
+    "3 Resources/HTML5/Árbol de Contenido HTML Simplificado.md",
+    "3 Resources/HTML5/Sintaxis de HTLM.md",
+    "3 Resources/HTML5/Etiquetas de HTML5.md",
+    "0 Inbox/Terminar curso de diseño web.md",
+    "3 Resources/HTML5/Etiquetas Obsoletas.md",
+    "3 Resources/HTML5/Mejoras en la versión de HTML5.md",
+    "0 Inbox/Terminar los cursos de IA.md",
+    "3 Resources/HTML5",
     "3 Resources/CSS3.md",
-    "3 Resources/HTML5.md",
     "1 Projects/IA Pod Courses/Introducción.md",
     "1 Projects/Diseño Web",
     "3 Resources/AI POD Engineering Expert/Que es un AI Pod.md",
