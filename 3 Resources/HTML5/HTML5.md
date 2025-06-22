@@ -7,4 +7,4 @@
 [[Árbol de Contenido HTML Simplificado]]
 	1. [[Header]]
 	2. [[h1, h2, h3, h4, h5, h6]] 
-	3. 
+	3. [[hgroup]]
