@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/HTML5/hgroup.md",
+                "file": "3 Resources/HTML5/HTML5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hgroup"
+              "title": "HTML5"
             }
           },
           {
@@ -242,9 +242,10 @@
   },
   "active": "345129e74c910d9a",
   "lastOpenFiles": [
-    "3 Resources/HTML5/h1, h2, h3, h4, h5, h6.md",
-    "3 Resources/HTML5/hgroup.md",
+    "3 Resources/HTML5/nav, ul, ol, li.md",
     "3 Resources/HTML5/HTML5.md",
+    "3 Resources/HTML5/hgroup.md",
+    "3 Resources/HTML5/h1, h2, h3, h4, h5, h6.md",
     "1 Projects/Diseño Web/Programa de Estudio.md",
     "0 Inbox/Terminar curso de diseño web.md",
     "3 Resources/HTML5/Header.md",
