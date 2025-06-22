@@ -3,5 +3,8 @@
 [[Mejoras en la versión de HTML5]]
 [[Etiquetas Obsoletas]]
 [[Sintaxis de HTLM]]
-[[Árbol de Contenido HTML Simplificado]]
 [[Clasificación de las etiquetas HTML5]]
+[[Árbol de Contenido HTML Simplificado]]
+	1. [[Header]]
+	2. [[h1, h2, h3, h4, h5, h6]] 
+	3. 
