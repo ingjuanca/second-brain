@@ -4,7 +4,7 @@ A comprehensive journey to equip AI POD Engineering Experts with the critical kn
 # Cursos
 [[Que es un AI Pod]]
 [[The AI POD Engineering Expert Role]]
-Prompt Engineering · Developers
+[[Prompt Engineering · Developers]]
 Gen AI assisted Software Engineering
 G Enterprise AI Workshop - Self-paced
 [ENG]  G - Enterprise AI (GEAI) - Lab
