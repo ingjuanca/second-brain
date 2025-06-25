@@ -16,3 +16,4 @@
 	9. [[article]]
 	10. [[aside]]
 	11. [[div]]
+	12. [[footer]]

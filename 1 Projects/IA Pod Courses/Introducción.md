@@ -13,3 +13,9 @@ Meet G - CODA
 Cline - AI Autonomous Coding Agent Set Up
 Code Fixer AI Agent - Product Tour
 AI POD Engineer Expert - Final Exam
+
+### Globant Enterprise AI
+
+[[Agentic AI Systems]]
+[[Generative Artificial Intelligent (GenAI)]]
+
