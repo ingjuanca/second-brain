@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c1e79d3c9146747",
+        "id": "edc6c1d53210f930",
         "type": "tabs",
         "children": [
           {
-            "id": "1ad31fdc55a05258",
+            "id": "e14241a5f0172daa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/English/B2 - Upper-Intermediate 1/Vocabulary - Office layout.md",
+                "file": "2 Areas/shorcuts/Linux/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vocabulary - Office layout"
+              "title": "Linux"
             }
           }
         ]
@@ -179,46 +179,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad31fdc55a05258",
+  "active": "e14241a5f0172daa",
   "lastOpenFiles": [
-    "2 Areas/English/B2 - Upper-Intermediate 1/Unit 1 - Hot-desking and open offices.md",
-    "1 Projects/IA Pod Courses/Introducción.md",
+    "2 Areas/shorcuts/Linux/Linux.md",
     "2 Areas/shorcuts/Shorcuts.md",
-    "3 Resources/AI POD Engineering Expert/Generative Artificial Intelligent (GenAI).md",
+    "0 Inbox/The Linux Command Line.md",
+    "2 Areas/shorcuts/Linux/📘 Capítulo 9 – Redirección.md",
+    "2 Areas/shorcuts/Linux/📘 Capítulo 8 – Comandos Más Allá de lo Básico.md",
+    "2 Areas/shorcuts/Linux/📘 Capítulo 5 – Archivos y Permisos.md",
+    "2 Areas/shorcuts/Linux/📘 Capítulo 6 – Explorando el Sistema de Archivos.md",
+    "2 Areas/shorcuts/Linux/📘 Capítulo 7 – Manipulando Archivos y Directorios.md",
+    "0 Inbox/Hacer una lista de shorcuts de las aplicaciones.md",
+    "2 Areas/shorcuts/Linux/📘 Capítulo 2 – Lo que Necesitas.md",
+    "2 Areas/shorcuts/Linux/📘 Capítulo 3 – El Primer Encuentro.md",
+    "2 Areas/shorcuts/Linux/📘 Capítulo 4 – Navegando el Sistema de Archivos.md",
+    "2 Areas/shorcuts/Linux/📘 Capítulo 1 - Por qué Usar la Línea de Comandos.md",
+    "2 Areas/English/B2 - Upper-Intermediate 1/Unit 1 - Hot-desking and open offices.md",
+    "2 Areas/shorcuts/Linux",
+    "2 Areas/shorcuts/Vim.md",
+    "2 Areas/shorcuts/Edge.md",
     "2 Areas/English/B2 - Upper-Intermediate 1/Vocabulary - Office layout.md",
+    "2 Areas/shorcuts/Windows 11.md",
+    "1 Projects/IA Pod Courses/Introducción.md",
+    "3 Resources/AI POD Engineering Expert/Generative Artificial Intelligent (GenAI).md",
     "2 Areas/English/B2 - Upper-Intermediate 1",
     "Pasted image 20250626120636.png",
     "Pasted image 20250626120247.png",
     "Pasted image 20250626115224.png",
-    "0 Inbox/Untitled 1.md",
     "2 Areas/English",
     "2 Areas/shorcuts/Emmet - Sublime Text.md",
     "0 Inbox/Terminar los cursos de IA.md",
     "3 Resources/AI POD Engineering Expert/The AI POD Engineering Expert Role.md",
     "3 Resources/AI POD Engineering Expert/Agentic AI Systems.md",
     "3 Resources/AI POD Engineering Expert/Prompt Engineering · Developers.md",
-    "0 Inbox/Hacer una lista de shorcuts de las aplicaciones.md",
-    "2 Areas/shorcuts/Vim.md",
     "0 Inbox/Issues on services.md",
-    "2 Areas/shorcuts/IntelliJ.md",
     "2 Areas/shorcuts",
-    "3 Resources/HTML5/footer.md",
-    "3 Resources/HTML5/HTML5.md",
-    "3 Resources/HTML5/aside.md",
-    "1 Projects/Diseño Web/Programa de Estudio.md",
-    "3 Resources/HTML5/div.md",
-    "3 Resources/HTML5/article.md",
-    "3 Resources/HTML5/section.md",
-    "3 Resources/HTML5/Enlaces.md",
-    "3 Resources/HTML5/Árbol de Contenido HTML Simplificado.md",
-    "3 Resources/HTML5/strong, em.md",
     "3 Resources/HTML5",
     "1 Projects/Diseño Web",
     "3 Resources/AI POD Engineering Expert",
     "1 Projects/IA Pod Courses",
     "Untitled.canvas",
     "4 Archive",
-    "3 Resources",
-    "2 Areas"
+    "3 Resources"
   ]
 }
