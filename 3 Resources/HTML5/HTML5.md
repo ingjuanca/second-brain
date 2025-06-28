@@ -17,3 +17,7 @@
 	10. [[aside]]
 	11. [[div]]
 	12. [[footer]]
+	13. [[img, figure, figcaption]]
+	14. [[audio]]
+	15. [[video]]
+	16. [[form, input, label]]
