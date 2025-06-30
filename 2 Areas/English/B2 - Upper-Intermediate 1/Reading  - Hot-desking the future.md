@@ -7,7 +7,6 @@
 Understand an article on office layouts
 
 ---
-
 ### Before you read
 
 Think about seating and desk arrangements in your office.

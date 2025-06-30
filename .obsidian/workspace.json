@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/English/B2 - Upper-Intermediate 1/Reading  - Hot-desking the future.md",
+                "file": "3 Resources/Generative IA/ChatGPT & Generative AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading  - Hot-desking the future"
+              "title": "ChatGPT & Generative AI"
+            }
+          },
+          {
+            "id": "edf66dddea19f09c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Terminar el curso de IA generativa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terminar el curso de IA generativa"
+            }
+          },
+          {
+            "id": "b40748a13a4ab218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Resources/Generative IA/ChatGPT & Generative AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT & Generative AI"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,11 +208,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cc533fe04bb0eb4",
+  "active": "b40748a13a4ab218",
   "lastOpenFiles": [
+    "3 Resources/Generative IA/It's Not Just ChatGPT!.md",
+    "3 Resources/Generative IA/Acerca del curso.md",
+    "3 Resources/Generative IA/Generative AI & Speed Of Innovation.md",
+    "0 Inbox/It's Not Just About AI Chatbots!.md",
+    "Pasted image 20250630115310.png",
+    "3 Resources/Generative IA/ChatGPT & Generative AI.md",
+    "Pasted image 20250630114022.png",
+    "Pasted image 20250630113134.png",
+    "Pasted image 20250630112100.png",
+    "Pasted image 20250630112027.png",
+    "0 Inbox/Terminar el curso de IA generativa.md",
+    "3 Resources/Generative IA/Qué es exactamente la IA generativa.md",
+    "3 Resources/Generative IA",
+    "0 Inbox/Terminar los cursos de IA.md",
+    "2 Areas/English/B2 - Upper-Intermediate 1/Reading  - Hot-desking the future.md",
     "2 Areas/English/B2 - Upper-Intermediate 1/Vocabulary - Office layout.md",
     "2 Areas/English/B2 - Upper-Intermediate 1/Unit 1 - Hot-desking and open offices.md",
-    "2 Areas/English/B2 - Upper-Intermediate 1/Reading  - Hot-desking the future.md",
     "Pasted image 20250629121611.png",
     "Pasted image 20250629120113.png",
     "Pasted image 20250629113119.png",
@@ -201,20 +244,10 @@
     "3 Resources/HTML5/img, figure, figcaption.md",
     "2 Areas/shorcuts/Linux/📘 Capítulo 9 – Redirección.md",
     "0 Inbox/The Linux Command Line.md",
-    "2 Areas/shorcuts/Linux/📘 Capítulo 8 – Comandos Más Allá de lo Básico.md",
-    "2 Areas/shorcuts/Linux/📘 Capítulo 5 – Archivos y Permisos.md",
-    "2 Areas/shorcuts/Linux/📘 Capítulo 6 – Explorando el Sistema de Archivos.md",
-    "2 Areas/shorcuts/Linux/📘 Capítulo 7 – Manipulando Archivos y Directorios.md",
-    "0 Inbox/Hacer una lista de shorcuts de las aplicaciones.md",
-    "2 Areas/shorcuts/Linux/📘 Capítulo 2 – Lo que Necesitas.md",
-    "2 Areas/shorcuts/Linux/📘 Capítulo 3 – El Primer Encuentro.md",
-    "2 Areas/shorcuts/Linux/📘 Capítulo 4 – Navegando el Sistema de Archivos.md",
-    "2 Areas/shorcuts/Linux/📘 Capítulo 1 - Por qué Usar la Línea de Comandos.md",
     "2 Areas/shorcuts/Linux",
     "2 Areas/English/B2 - Upper-Intermediate 1",
     "Pasted image 20250626120636.png",
     "Pasted image 20250626120247.png",
-    "Pasted image 20250626115224.png",
     "2 Areas/English",
     "2 Areas/shorcuts",
     "3 Resources/HTML5",
@@ -222,7 +255,6 @@
     "3 Resources/AI POD Engineering Expert",
     "1 Projects/IA Pod Courses",
     "Untitled.canvas",
-    "4 Archive",
-    "3 Resources"
+    "4 Archive"
   ]
 }
