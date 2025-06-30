@@ -3,7 +3,7 @@
 ### ¿Qué es exactamente la IA generativa?
 
 
-La IA generativa se refiere a una categoría de modelos de inteligencia artificial capaces de crear nuevos contenidos, como **texto, imágenes, audio, vídeo o código**, similares a los que podría producir un ser humano.
+La IA generativa se refiere a una *categoría de modelos de inteligencia artificial capaces de crear nuevos contenidos*, como **texto, imágenes, audio, vídeo o código**, similares a los que podría producir un ser humano.
 
 Suena muy bien, pero ¿qué significa exactamente?
 

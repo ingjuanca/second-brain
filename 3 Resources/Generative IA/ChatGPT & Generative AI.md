@@ -8,3 +8,12 @@
 - [[Generative AI & Speed Of Innovation]]
 - [[It's Not Just ChatGPT!]]
 - [[It's Not Just About AI Chatbots!]]
+
+
+---
+### Notas
+
+| **Academind Community** | https://academind.com/community/ |
+| ----------------------- | -------------------------------- |
+
+

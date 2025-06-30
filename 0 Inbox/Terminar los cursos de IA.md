@@ -3,4 +3,4 @@
 - Cursos:
 	https://university.globant.com/learning-track/ai-pod-engineering-expert
 - Notas
-	[[Introducción]]
+	[[1 Projects/IA Pod Courses/Introducción]]
