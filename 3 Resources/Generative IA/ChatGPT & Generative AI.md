@@ -9,6 +9,9 @@
 - [[It's Not Just ChatGPT!]]
 - [[It's Not Just About AI Chatbots!]]
 
+### 2. Understanding ChatGPT & LLMs - A Look Behind The Scenes
+
+- [[Qué sucede cuando usas un chatbot como ChatGPT]]
 
 ---
 ### Notas

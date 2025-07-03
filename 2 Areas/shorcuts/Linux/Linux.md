@@ -13,3 +13,6 @@ Esta sección sienta las bases del uso de la línea de comandos. No se enfoca a�
 - [[📘 Capítulo 7 – Manipulando Archivos y Directorios]]
 - [[📘 Capítulo 8 – Comandos Más Allá de lo Básico]]
 - [[📘 Capítulo 9 – Redirección]]
+- [[📘 Capítulo 10 – Expansiones de la Shell]]
+- [[📘 Capítulo 11 – Citado]]
+	
