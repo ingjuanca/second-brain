@@ -14,6 +14,7 @@
 - [[Qué sucede cuando usas un chatbot como ChatGPT]]
 - [[Cómo funciona un modelo de lenguaje como ChatGPT]]
 - [[Modelo de lenguaje grande (LLM)]]
+- [[De texto a modelo conversacional]]
 
 ---
 ### Notas
