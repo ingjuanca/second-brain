@@ -7,25 +7,25 @@ Use vocabulary related to confidence in career development
 ---
 ### Vocabulary
 
-- **no-brainer [noun]** - informal, something that requires or involves little or no mental effort
-- **riddled [adjective]** - full of something unwanted
-- **to perceive [verb]** - to think of something or someone in a particular way
-- **to amp up [phrasal verb]** - informal, to make something stronger, more extreme, or more exciting
-- **crucial [adjective]** - decisive or critical, especially in the success or failure of something
-- **to fake [verb]** - to pretend; to simulate
-- **to pay off [phrasal verb]** - to bring some benefit; to succeed
-- **self-aware [adjetive]** - knowing and understanding yourself very well
-- **self-doubt [noun]** - a feeling of having no confidence in your abilities and decisions
+- **`no-brainer` [noun]** - informal, something that requires or involves little or no mental effort
+- **`riddled` [adjective]** - full of something unwanted
+- **`to perceive` [verb]** - to think of something or someone in a particular way
+- **`to amp up` [phrasal verb]** - informal, to make something stronger, more extreme, or more exciting
+- **`crucial` [adjective]** - decisive or critical, especially in the success or failure of something
+- **`to fake` [verb]** - to pretend; to simulate
+- **`to pay off` [phrasal verb]** - to bring some benefit; to succeed
+- **`self-aware` [adjetive]** - knowing and understanding yourself very well
+- **`self-doubt` [noun]** - a feeling of having no confidence in your abilities and decisions
 
 ---
 
-- All your hard work will **pay off**. Your boss will surely recommend your promotion! 
-- Goal setting is **crucial** to achieve career goals. 
-- Knowing how others **perceive** you can help foster confidence. 
-- It's a **no-brainer** that negativity can undermine our abilities. 
-- Anyone **riddled** with self-doubt will have difficulty achieving goals.
-- If you're ready to **amp up** the adventure, you can climb up via the waterfall.
-- The first step to confidence is to be **self-aware**.
+- All your hard work will **`pay off`**. Your boss will surely recommend your promotion! 
+- Goal setting is **`crucial`** to achieve career goals. 
+- Knowing how others **`perceive`** you can help foster confidence. 
+- It's a **`no-brainer`** that negativity can undermine our abilities. 
+- Anyone **`riddled`** with self-doubt will have difficulty achieving goals.
+- If you're ready **`to amp up`** the adventure, you can climb up via the waterfall.
+- The first step to confidence is to be **`self-aware`**.
 
 ---
 ### How to Cultivate More Confidence in Your Career

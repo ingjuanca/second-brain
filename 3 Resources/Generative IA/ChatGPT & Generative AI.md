@@ -12,6 +12,8 @@
 ### 2. Understanding ChatGPT & LLMs - A Look Behind The Scenes
 
 - [[Qué sucede cuando usas un chatbot como ChatGPT]]
+- [[Cómo funciona un modelo de lenguaje como ChatGPT]]
+- [[Modelo de lenguaje grande (LLM)]]
 
 ---
 ### Notas

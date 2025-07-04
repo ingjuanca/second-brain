@@ -15,4 +15,7 @@ Esta sección sienta las bases del uso de la línea de comandos. No se enfoca a�
 - [[📘 Capítulo 9 – Redirección]]
 - [[📘 Capítulo 10 – Expansiones de la Shell]]
 - [[📘 Capítulo 11 – Citado]]
+- [[📘 Capítulo 12 – Expresiones Regulares]]
+- [[📘 Capítulo 13 – El Entorno del Entorno]]
+- [[📘 Capítulo 14 – Escribir Scripts Shell]]
 	

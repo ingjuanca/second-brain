@@ -8,10 +8,16 @@ El documento explica el proceso que ocurre cuando un usuario interactúa con un 
     
     - **La aplicación (como ChatGPT)**: Es una interfaz web o móvil creada por ingenieros humanos (por ejemplo, de OpenAI).
     - **El modelo de IA**: Es el sistema que genera las respuestas.
+    
+    ![[Pasted image 20250703193342.png]]
+    
 2. **Procesamiento del mensaje del usuario**:
     
     - Cuando escribes algo, **primero lo recibe la aplicación**, no el modelo directamente.
     - La aplicación puede **filtrar o modificar tu entrada** antes de enviarla al modelo (por ejemplo, bloquear ciertas palabras).
+    
+    ![[Pasted image 20250703193514.png]]
+    
 3. **Historial del chat**:
     
     - El modelo no solo recibe tu último mensaje, sino **todo el historial de la conversación** para generar respuestas más coherentes.
@@ -20,6 +26,9 @@ El documento explica el proceso que ocurre cuando un usuario interactúa con un 
     
     - Existen mensajes ocultos que tú no ves, como configuraciones que indican al modelo cómo comportarse (por ejemplo, ser amable o evitar temas polémicos).
     - Estos también se incluyen en el historial que recibe el modelo.
+    
+    ![[Pasted image 20250703193804.png]]
+    
 5. **Filtrado de respuestas**:
     
     - La aplicación también puede **filtrar las respuestas del modelo** antes de mostrártelas.
@@ -29,3 +38,6 @@ El documento explica el proceso que ocurre cuando un usuario interactúa con un 
     - Puedes usar **APIs** o incluso **alojar tu propio modelo**.
     - Si alojas el modelo tú mismo, tienes más control y sabes exactamente qué se le envía.
     - Con APIs, puedes configurar el mensaje del sistema, pero aún puede haber procesamiento adicional por parte del proveedor.
+    
+    ![[Pasted image 20250703194041.png]]
+    
