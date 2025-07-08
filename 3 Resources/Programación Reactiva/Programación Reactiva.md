@@ -12,7 +12,6 @@
 5. [[Cómo Funciona la Programación Reactiva]]
 6. [[Comunicación en programación reactiva]]
 7. [[Resumen]]
-
 ### 2. Mono
 
 1. [[Configuración]]
@@ -23,3 +22,11 @@
 6. [[Mono Subscribe - Overloaded Methods]]
 7. [[Mono.empty y Mono.error]]
 8. [[onErrorDropped]]
+9. [[Mono.fromSupplier]]
+10. [[Mono.fromCallable]]
+11. [[Mono.fromRunnable]]
+12. [[Mono.fromFuture]]
+13. [[Diferencias entre crear y ejecutar un Publisher]]
+14. [[External Services]]
+15. [[La entrada-salida no bloqueante]]
+16. 
