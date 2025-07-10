@@ -27,6 +27,7 @@
 11. [[Mono.fromRunnable]]
 12. [[Mono.fromFuture]]
 13. [[Diferencias entre crear y ejecutar un Publisher]]
-14. [[External Services]]
-15. [[La entrada-salida no bloqueante]]
-16. 
+14. [[Mono.defer]]
+15. [[External Services]]
+16. [[La entrada-salida no bloqueante]]
+17. 

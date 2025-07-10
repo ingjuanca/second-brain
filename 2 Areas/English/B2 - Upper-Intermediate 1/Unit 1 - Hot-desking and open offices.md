@@ -3,3 +3,4 @@ What is your workplace like? Does your company assign desks and offices, or has 
 
 [[Vocabulary - Office layout]]
 [[Reading  - Hot-desking the future]]
+[[A change in seating]]

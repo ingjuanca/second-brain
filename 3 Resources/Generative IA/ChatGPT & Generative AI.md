@@ -15,6 +15,11 @@
 - [[Cómo funciona un modelo de lenguaje como ChatGPT]]
 - [[Modelo de lenguaje grande (LLM)]]
 - [[De texto a modelo conversacional]]
+- [[modelos de razonamiento]]
+- [[La ventana de contexto]]
+- [[El problema de las alucinaciones]]
+- [[La limitación del conocimiento actualizado]]
+- [[Conclusión sobre los modelos de lenguaje y su funcionamiento]]
 
 ---
 ### Notas
