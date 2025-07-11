@@ -1,0 +1,24 @@
+
+---
+
+De acuerdo, ahora hemos echado un vistazo a todos estos modelos y ahora podemos usar un buen modelo base como GPT-4o en mi caso aquí. Ahora estoy en un nuevo chat y puedo enviar mis prompts a ChatGPT. Ahora, hay una sección completa y detallada sobre la ingeniería de prompts en este curso, que te enseñará todos los consejos y trucos y técnicas avanzadas de ingeniería de prompts que debes conocer para aprovechar al máximo ChatGPT. Pero en general, tu prompt es, por supuesto, lo que envías a ChatGPT y debería intentar describir el problema que deseas que ChatGPT resuelva de la manera más concisa posible, mientras aún incluye toda la información importante que ChatGPT necesita saber.
+
+![[Pasted image 20250711153225.png]]
+
+Por ejemplo, podrías enviar un prompt como este, y eso ya es quizás un pequeño punto importante. Puedes enviar prompts y mensajes bastante largos, y este ni siquiera es un super largo. Aún es relativamente corto. Podrías escribir artículos completos aquí en esta caja de entrada o copiar y pegar artículos enteros en esta caja de entrada. Por ejemplo, aquí podría tomar un artículo de mi sitio web y copiarlo sin las imágenes, pero copié todo el texto y lo pegué en esta caja de entrada. Así que aquí tengo un nuevo prompt donde básicamente asigno un rol a ChatGPT, que es algo que aprenderás en la sección de ingeniería de prompts, y luego le digo que tengo un artículo y añadí estos delimitadores aquí, estos elementos XML. 
+
+![[Pasted image 20250711153437.png]]
+
+No porque sean técnicamente requeridos, sino porque, como también aprenderás en la sección de ingeniería de prompts, pueden ayudar a los modelos de lenguaje grande, como los que utiliza ChatGPT, a entender tu prompt un poco mejor, y usarlos siempre es una buena idea si, por ejemplo, pegas artículos largos o correos electrónicos o algo así.
+
+![[Pasted image 20250711153608.png]]
+
+Así que aquí pegaré mi artículo entre estas etiquetas de artículo, así que ahora tengo este super largo prompt aquí, y ahora podría completar mi prompt diciendo, Por favor, resume el artículo anterior. Resúmelo como una lista, o algo así. Y este sería un ejemplo de un super largo prompt, y es extremadamente importante entender que puedes tener prompts largos como este. Puedes poner mucho texto en esta caja de entrada aquí. También podrías, por supuesto, añadir archivos y, como se explicó antes, lo que esté en estos archivos también sería parte de tu prompt. Así que si no quieres tener mucho texto aquí en el campo de texto, también podrías guardarlo en un documento de texto o PDF y adjuntar ese documento. Esa sería una forma alternativa de añadir más texto y más contenido a tu prompt.
+
+Entonces, tu prompt general y todo el historial de chat existente, si hay algún historial, aquí no lo hay, pero sería todo el historial de chat junto con tu prompt completo que se enviará a ChatGPT cuando presiones enter o presiones este botón aquí. Y, por lo tanto, ese prompt y todo el historial de chat son parte de esa llamada ventana de contexto que es procesada por ChatGPT y el modelo de IA subyacente. Así que aquí estoy obteniendo el resumen de mi artículo como una lista, y se basa en este prompt aquí, por supuesto, en este mensaje que envié a ChatGPT.
+
+Pero, nuevamente, profundizaremos mucho más en la creación de grandes prompts y en diferentes técnicas que puedes usar para obtener grandes resultados más adelante en el curso, en la sección separada de ingeniería de prompts. Ahora, lo que es realmente importante entender, no solo sobre ChatGPT, sino sobre estos chatbots de IA en general, es que si enviaras un mensaje de seguimiento a ChatGPT, sería todo el historial de chat lo que se enviaría a ChatGPT y al modelo de IA subyacente. Así que sería tu prompt inicial nuevamente, la respuesta de ChatGPT y tu mensaje de seguimiento que se envía a ChatGPT, y, por lo tanto, con el tiempo, por supuesto, tu ventana de contexto se vuelve cada vez más llena. Envías más y más texto a ChatGPT, y toda esa información que le envías será considerada para las respuestas futuras que se generen. Así que siempre tomará en cuenta todo el historial de chat. Eso es realmente importante de entender.
+
+Resumen:
+
+El documento aborda los fundamentos de la escritura de prompts para ChatGPT. Se explica que un prompt es lo que se envía a ChatGPT y debe describir el problema de manera concisa, incluyendo toda la información relevante. Se menciona que se pueden enviar prompts largos, incluso artículos completos, y se sugiere el uso de delimitadores XML para ayudar a los modelos de lenguaje a entender mejor el contenido. Además, se destaca que el historial de chat completo se envía junto con el prompt, lo que significa que toda la información previa se considera en las respuestas futuras. Se anticipa que se profundizará en técnicas avanzadas de ingeniería de prompts en secciones posteriores del curso.

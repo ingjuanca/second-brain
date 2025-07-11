@@ -21,6 +21,14 @@
 - [[La limitación del conocimiento actualizado]]
 - [[Conclusión sobre los modelos de lenguaje y su funcionamiento]]
 
+### 3. ChatGPT Basics
+
+- [[3 Resources/Generative IA/ChatGPT Basics/Introducción|Introducción]]
+- [[ChatGPT - Free vs Paid]]
+- [[Un recorrido por la interfaz de ChatGPT]]
+- [[Entendiendo los Modelos y el Selector de Modelos.]]
+- [[Prompts de Escritura]]
+- [[Editando Prompts y Regenerando Respuestas]]
 ---
 ### Notas
 
