@@ -29,6 +29,14 @@
 - [[Entendiendo los Modelos y el Selector de Modelos.]]
 - [[Prompts de Escritura]]
 - [[Editando Prompts y Regenerando Respuestas]]
+- [[Usando el Habla como Entrada]]
+- [[Uso de la búsqueda web en ChatGPT]]
+- [[Usando la Herramienta de Investigación Profunda]]
+- [[Generando Imágenes con ChatGPT]]
+- [[Usando el Modo Canvas]]
+- [[Haciendo que ChatGPT Ejecute Código y Ejemplo de Generación de Códigos QR]]
+- [[Disponibilidad de Herramientas]]
+- [[Entendiendo y Configurando Instrucciones Personalizadas]]
 ---
 ### Notas
 

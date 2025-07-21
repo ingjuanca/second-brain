@@ -18,4 +18,7 @@ Esta sección sienta las bases del uso de la línea de comandos. No se enfoca a�
 - [[📘 Capítulo 12 – Expresiones Regulares]]
 - [[📘 Capítulo 13 – El Entorno del Entorno]]
 - [[📘 Capítulo 14 – Escribir Scripts Shell]]
+- [[📘 Capítulo 15 – Más sobre Scripts Shell]] 
+- [[📘 Capítulo 16 – Empaquetado y Compresión de Archivos]]
+- [[📘 Capítulo 17 – Redirección de Entrada-Salida]]
 	

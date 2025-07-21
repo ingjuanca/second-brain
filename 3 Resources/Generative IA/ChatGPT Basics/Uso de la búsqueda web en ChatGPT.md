@@ -1,0 +1,18 @@
+
+---
+
+Ahora, al enviar mensajes a ChatGPT, al menos en el momento en que estoy grabando esto, también tienes acceso a varias herramientas que puedes habilitar explícitamente haciendo clic en ellas. 
+
+![[Pasted image 20250721142533.png]]
+
+Por ejemplo, si hago clic en esta herramienta de Buscar en la web, obligo a ChatGPT a realizar una búsqueda en la web para mi prompt, a menos que sea realmente un prompt donde no se pueda buscar nada. Y, por supuesto, esa es una herramienta útil si sabes que quieres que ChatGPT te ayude con un prompt donde probablemente no sabrá la respuesta sin una búsqueda en la web, porque, por ejemplo, todos estos modelos de lenguaje grande que alimentan a ChatGPT y otros chatbots de IA, todos estos modelos tienen una llamada fecha de corte de conocimiento, que es esencialmente la última fecha que aún se refleja en sus datos de entrenamiento antes de que comenzara su proceso de entrenamiento. Así que, cualquier cosa que suceda después de esa fecha no será conocida por el modelo. No está reflejada en los datos de entrenamiento que se utilizaron para entrenar el modelo, por lo que no sabe sobre eso. Por ejemplo, si le preguntara a ChatGPT, ¿Cuál es el último modelo de IA lanzado por Google? probablemente no lo sabrá sin buscar en la web, porque el proceso de entrenamiento del modelo que seleccioné aquí, 4o en mi caso, comenzó antes de que Google lanzara su último modelo de IA, porque su modelo más reciente podría haber sido lanzado ayer y el proceso de entrenamiento para 4o podría haber comenzado hace un año o más. Así que, esa es una pregunta donde la búsqueda en la web tiene sentido.
+
+Sin embargo, a menudo, no necesitas habilitar explícitamente la búsqueda en la web. Puedes hacerlo si ese botón aún existe cuando estás viendo este video, lo cual podría no ser el caso, pero a menudo no tienes que hacerlo, porque ChatGPT y el modelo de IA subyacente han sido ajustados con conversaciones de demostración que intentan capturar preguntas como esta que implican búsqueda en la web o que se beneficiarían de la búsqueda en la web. Y ChatGPT y los modelos subyacentes han sido entrenados para detectar preguntas como esta para realizar búsquedas en la web automáticamente, incluso si no se lo indicas explícitamente. Así que, si envío esta pregunta aquí, verás que buscará en la web por su cuenta. Eso puede no suceder siempre para todas las preguntas donde tiene sentido, pero a menudo sucederá, y si no está buscando en la web en casos donde deseas que lo haga, siempre puedes obligarlo a buscar en la web haciendo clic en el botón de búsqueda.
+
+Es importante entender que cuando se trata de usar estas herramientas que están disponibles para ChatGPT, a menudo las usará por su cuenta sin que se lo digas. Sin embargo, si tienes estos botones disponibles, siempre puedes obligar a ChatGPT a usar una herramienta específica, aunque vale la pena señalarlo.
+
+---
+
+**Resumen:**
+
+El documento explica cómo interactuar con las herramientas disponibles en ChatGPT al enviar mensajes. Se menciona que al hacer clic en la herramienta de "Buscar en la web", se puede obligar a ChatGPT a realizar búsquedas en línea para obtener respuestas a preguntas que podrían no estar en su base de datos debido a la fecha de corte de conocimiento del modelo. Aunque a menudo ChatGPT puede realizar búsquedas automáticamente si detecta que la pregunta lo requiere, los usuarios también tienen la opción de forzar la búsqueda manualmente. Es importante comprender que ChatGPT puede utilizar estas herramientas de manera autónoma, pero los usuarios siempre pueden intervenir y activar funciones específicas según sea necesario.
