@@ -1,0 +1,14 @@
+
+---
+
+Otro chatbot de IA y modelo popular es Grok de X.AI, y este es un chatbot de IA que está directamente integrado en X. Y, al menos en este momento, necesitas tener una cuenta de pago en X para acceder a Grok. Pero si tienes eso, es un chatbot que está integrado directamente en X. Puedes hacer preguntas y puede buscar en la web, por lo que utilizará la búsqueda en la web para fundamentar sus respuestas y proporcionar mejores respuestas, superando así el problema de la fecha de corte de conocimiento. También te permite subir archivos, entrar en modo de investigación profunda, y en este momento también tiene un modo de búsqueda más profunda para investigaciones avanzadas.
+
+Pero de cualquier manera, la idea es que realizará múltiples búsquedas en la web detrás de escena, evaluará los resultados y creará informes. Puedes activar el modo de pensamiento. Así que, a diferencia de Google Gemini o ChatGPT, no tienes diferentes modelos de pensamiento y no pensamiento aquí. En su lugar, tienes un modelo base que puedes cambiar al modo de pensamiento o no pensamiento, al menos en este momento.
+
+Puedes usarlo para editar imágenes con la ayuda de Grok, pidiéndole que cambie imágenes o partes de imágenes, y en general puedes ajustar qué tipo de herramientas puede usar Grok para responder a tu solicitud o ayudarte con tu solicitud.
+
+Ahora, dado que Grok está profundamente integrado en X, también puedes usarlo desde dentro de X para, por ejemplo, explicar publicaciones. Así que, típicamente, para las publicaciones que encuentras en X, deberías tener este botón de Explicar Esta Publicación, y si haces clic en esto, Grok comenzará a analizar esta publicación, tal vez también realizando una búsqueda en la web además, y luego intentará explicarte esta publicación, explicando las diferentes cosas que podrían mencionarse allí, las diferentes herramientas, y así sucesivamente. Y en general, la profunda comprensión de las conversaciones en X y lo que está sucediendo en X, y X siendo una fuente valiosa de noticias, hacen que Grok sea bastante atractivo para ciertos casos de uso donde tal vez necesites realizar alguna investigación o donde tal vez necesites agregar noticias o publicaciones que se han compartido en X.
+
+**Resumen:**
+
+El documento presenta Grok, un chatbot de IA integrado en X.AI que requiere una cuenta de pago para acceder. Grok permite realizar búsquedas en la web para fundamentar sus respuestas y superar limitaciones de conocimiento. Ofrece funciones como la carga de archivos, un modo de investigación profunda y la capacidad de editar imágenes. Además, Grok puede analizar publicaciones en X y proporcionar explicaciones sobre su contenido, lo que lo convierte en una herramienta útil para la investigación y la agregación de noticias. Su integración con X y su comprensión de las conversaciones en la plataforma lo hacen atractivo para ciertos casos de uso.

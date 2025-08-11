@@ -37,6 +37,30 @@
 - [[Haciendo que ChatGPT Ejecute Código y Ejemplo de Generación de Códigos QR]]
 - [[Disponibilidad de Herramientas]]
 - [[Entendiendo y Configurando Instrucciones Personalizadas]]
+- [[Configuraciones Clave, Memoria y Privacidad]]
+- [[Trabajando con Proyectos de ChatGPT]]
+- [[Programación de Tareas]]
+- [[GPTs Personalizados]]
+- [[Creando nuestro propio GPT Personalizado]]
+- [[Un GPT Personalizado Más Realista]]
+
+### 4. ChatGPT Alternatives
+
+- [[Introduction]]
+- [[Explorando Google Gemini]]
+- [[Gemini, Búsqueda en la Web y Verificación Doble]]
+- [[Usando Gemini Indirectamente a Través de la Búsqueda]]
+- [[Explorando Anthropic Claude]]
+- [[Explorando Grok]]
+- [[Explorando Microsoft Copilot]]
+
+### 5. Running LLMs Locally via LM Studio
+
+- [[3 Resources/Generative IA/Running LLMs Locally via LM Studio/Introducción|Introducción]]
+- [[Por que usar lenguajes de código abierto (LLM)]]
+- [[Encontrar y Entender Modelos LLM Abiertos]]
+- [[Requisitos de Hardware y Cuantización]]
+
 ---
 ### Notas
 
