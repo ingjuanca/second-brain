@@ -60,6 +60,9 @@
 - [[Por que usar lenguajes de código abierto (LLM)]]
 - [[Encontrar y Entender Modelos LLM Abiertos]]
 - [[Requisitos de Hardware y Cuantización]]
+- [[Opciones de Software para Ejecutar LLMs Localmente e Instalar LM Studio]]
+- [[Casos de Uso Ejemplo - Resumen de Texto y Análisis de Datos]]
+- [[Alojando Modelos Abiertos]]
 
 ---
 ### Notas
