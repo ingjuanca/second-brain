@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 207.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +196,16 @@
   },
   "active": "0f872afd3c7c56df",
   "lastOpenFiles": [
-    "3 Resources/Spring Cloud Fundamental/Create Product Micro Service/Product Service.md",
+    "3 Resources/Spring Cloud Fundamental/Rest clients using Feign/Rest clients using Feign.md",
     "3 Resources/Spring Cloud Fundamental/Spring Cloud Fundamentals.md",
+    "3 Resources/Spring Cloud Fundamental/Rest clients using Feign",
+    "3 Resources/Spring Cloud Fundamental/Service discovery using Eureka/Service discovery using Eureka.md",
+    "3 Resources/Spring Cloud Fundamental/Create Coupon Micro Service/Coupon Service.md",
+    "3 Resources/Spring Cloud Fundamental/Service discovery using Eureka",
+    "2 Areas/shorcuts/Linux/📘 Capítulo 7 – Manipulando Archivos y Directorios.md",
+    "3 Resources/Spring Cloud Fundamental/Create Product Micro Service/Product Service.md",
     "3 Resources/Spring Cloud Fundamental/Create Product Micro Service",
     "3 Resources/Spring Cloud Fundamental/Untitled",
-    "3 Resources/Spring Cloud Fundamental/Create Coupon Micro Service/Coupon Service.md",
     "3 Resources/Spring Cloud Fundamental/Create Coupon Micro Service",
     "3 Resources/Spring Cloud Fundamental/The Basics/Caso de uso.md",
     "3 Resources/Spring Cloud Fundamental/The Basics/Puertos.md",
@@ -232,16 +237,11 @@
     "4 Archive/images/Pasted image 20250811153211.png",
     "3 Resources/Generative IA/Introducción/Acerca del curso.md",
     "3 Resources/Generative IA/Running LLMs Locally via LM Studio",
-    "2 Areas/English/B2 - Upper-Intermediate 1/Grammar - Double comparatives.md",
-    "2 Areas/English/B2 - Upper-Intermediate 1/Vocabulary - Office layout.md",
-    "2 Areas/English/B2 - Upper-Intermediate 1/Unit 1 - Hot-desking and open offices.md",
     "3 Resources/Generative IA/ChatGPT Alternatives",
     "4 Archive/images/Pasted image 20250728130103.png",
     "4 Archive/images/Pasted image 20250728125738.png",
     "4 Archive/images/Pasted image 20250728124614.png",
     "4 Archive/images/Pasted image 20250728124106.png",
-    "2 Areas/English/Magazine/Future",
-    "2 Areas/English/Magazine/Life",
     "Untitled.canvas"
   ]
 }
