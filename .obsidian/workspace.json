@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Cloud Fundamental/Spring Cloud Fundamentals.md",
-                "mode": "source",
+                "file": "3 Resources/Spring Cloud Fundamental/Gateway/Filters.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Cloud Fundamentals"
+              "title": "Filters"
             }
           }
         ]
@@ -196,11 +196,16 @@
   },
   "active": "0f872afd3c7c56df",
   "lastOpenFiles": [
-    "3 Resources/Spring Cloud Fundamental/Rest clients using Feign/Rest clients using Feign.md",
     "3 Resources/Spring Cloud Fundamental/Spring Cloud Fundamentals.md",
+    "3 Resources/Spring Cloud Fundamental/Gateway/Gateway.md",
+    "3 Resources/Spring Cloud Fundamental/Create Coupon Micro Service/Coupon Service.md",
+    "3 Resources/Spring Cloud Fundamental/Gateway/Filters.md",
+    "3 Resources/Spring Cloud Fundamental/Gateway",
+    "3 Resources/Spring Cloud Fundamental/Client side Load balancing/Client side Load balancing.md",
+    "3 Resources/Spring Cloud Fundamental/Client side Load balancing",
+    "3 Resources/Spring Cloud Fundamental/Rest clients using Feign/Rest clients using Feign.md",
     "3 Resources/Spring Cloud Fundamental/Rest clients using Feign",
     "3 Resources/Spring Cloud Fundamental/Service discovery using Eureka/Service discovery using Eureka.md",
-    "3 Resources/Spring Cloud Fundamental/Create Coupon Micro Service/Coupon Service.md",
     "3 Resources/Spring Cloud Fundamental/Service discovery using Eureka",
     "2 Areas/shorcuts/Linux/📘 Capítulo 7 – Manipulando Archivos y Directorios.md",
     "3 Resources/Spring Cloud Fundamental/Create Product Micro Service/Product Service.md",
@@ -227,17 +232,12 @@
     "3 Resources/Generative IA/Running LLMs Locally via LM Studio/Por que usar lenguajes de código abierto (LLM).md",
     "3 Resources/Generative IA/Running LLMs Locally via LM Studio/Casos de Uso Ejemplo - Resumen de Texto y Análisis de Datos.md",
     "3 Resources/Generative IA/Running LLMs Locally via LM Studio/Opciones de Software para Ejecutar LLMs Localmente e Instalar LM Studio.md",
-    "3 Resources/Generative IA/Running LLMs Locally via LM Studio/Requisitos de Hardware y Cuantización.md",
-    "3 Resources/Generative IA/Running LLMs Locally via LM Studio/Encontrar y Entender Modelos LLM Abiertos.md",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",
     "4 Archive/images/Pasted image 20250811165946.png",
     "4 Archive/images/Pasted image 20250811161255.png",
     "4 Archive/images/Pasted image 20250811161152.png",
     "4 Archive/images/Pasted image 20250811153211.png",
-    "3 Resources/Generative IA/Introducción/Acerca del curso.md",
-    "3 Resources/Generative IA/Running LLMs Locally via LM Studio",
-    "3 Resources/Generative IA/ChatGPT Alternatives",
     "4 Archive/images/Pasted image 20250728130103.png",
     "4 Archive/images/Pasted image 20250728125738.png",
     "4 Archive/images/Pasted image 20250728124614.png",

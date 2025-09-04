@@ -14,11 +14,19 @@
 	- [[Coupon Service]]
 
  4.  Create Product Micro Service
-	- [[Product Service]]
+	 - [[Product Service]]
 
  5.  Service discovery using Eureka
 	 - [[Service discovery using Eureka]]
 
  6.  Rest clients using Feign
-	 - [[Service discovery using Eureka]]
+	 - [[Rest clients using Feign]]
+
+ 7.  Client side Load balancing
+	 - [[Client side Load balancing]]
+
+ 8.  Gateway
+	 - [[Gateway]]
+	 - [[Filters]]
+
 
