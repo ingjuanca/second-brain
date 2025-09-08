@@ -29,4 +29,12 @@
 	 - [[Gateway]]
 	 - [[Filters]]
 
+ 9.  Resilence4j - Fault Tolerance
+	 - [[Resilence4j - Fault Tolerance]]
+
+ 10.  Sleuth and Zipkin
+	 - [[Sleuth and Zipkin]]
+
+ 11.  Spring Cloud Bus
+	 - [[Spring Cloud Bus]]
 
