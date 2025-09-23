@@ -46,7 +46,7 @@
 
 ### 4. ChatGPT Alternatives
 
-- [[Introduction]]
+- [[3 Resources/Generative IA/ChatGPT Alternatives/Introduction]]
 - [[Explorando Google Gemini]]
 - [[Gemini, Búsqueda en la Web y Verificación Doble]]
 - [[Usando Gemini Indirectamente a Través de la Búsqueda]]
