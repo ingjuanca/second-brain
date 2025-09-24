@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "efb374c6ad305427",
+        "id": "509706a29e33bc45",
         "type": "tabs",
         "children": [
           {
-            "id": "c8a8afd279f6371c",
+            "id": "0e6cd3749cbf3f11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Dependency Check - Bean and Test Creation.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dependency Check - Bean and Test Creation"
+              "title": "Spring Framework In Easy Steps"
             }
           }
         ]
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8a8afd279f6371c",
+  "active": "0e6cd3749cbf3f11",
   "lastOpenFiles": [
-    "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Dependency Check - Bean and Test Creation.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+    "3 Resources/Spring Framework In Easy Steps/Dependency Check - Bean and Test Creation.md",
     "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes",
     "Untitled 1.canvas",
     "0 Inbox/Untitled.base",
@@ -226,7 +227,6 @@
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/The Spring Configuration File.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Two types of Dependency Injection.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Spring Container.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Spring Modules.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts",
     "3 Resources/Spring Framework In Easy Steps/Introduction",
     "3 Resources/Spring Framework In Easy Steps",

@@ -36,6 +36,6 @@
 
 ### 6. Dependency check, Inner beans and Scopes
 
-
+- [[Dependency Check - Bean and Test Creation]]
 ### 7. Constructor Injection
 

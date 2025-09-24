@@ -1,19 +1,20 @@
 
 ---
-
 ## Comprobación de dependencias – Creación del Bean y Prueba
 
 En esta lección se muestra cómo **forzar la inyección de dependencias** en Spring usando la anotación **`@Required`**.
 
 ---
-
 ### Caso de uso: **Prescripción médica**
 
 Se crea un **bean `Prescription`** con:
 
 - `id` (int) – identificador de la prescripción,
+    
 - `patientName` (String) – nombre del paciente,
+    
 - `medicines` (List<String>) – lista de medicamentos.
+    
 
 **Pasos iniciales en Eclipse:**
 
@@ -21,23 +22,17 @@ Se crea un **bean `Prescription`** con:
 
     `com.bharath.springcore.dependencycheck`
 
-```
+1. Añadir los campos: `id`, `patientName`, `List<String> medicines`.
 
-```
-2. Añadir los campos: `id`, `patientName`, `List<String> medicines`.
-    
-3. Generar getters, setters y método `toString()`.
-    
-4. Crear el archivo `config.xml` en la misma carpeta.
-    
-5. Copiar y adaptar una clase de prueba (`Test.java`) para:
-    
+2. Generar getters, setters y método `toString()`.
+
+3. Crear el archivo `config.xml` en la misma carpeta.
+
+4. Copiar y adaptar una clase de prueba (`Test.java`) para:
+
     - Cargar el `ApplicationContext`,
-        
     - Obtener el bean `Prescription`,
-        
     - Imprimir su contenido.
-        
 
 En esta primera parte solo se crea la estructura, sin configurar aún las dependencias.
 
@@ -49,22 +44,105 @@ Ahora se configura la **validación de dependencias obligatorias**:
 
 1. En `config.xml`, declarar el bean:
     
-    `<bean id="prescription"       class="com.bharath.springcore.dependencycheck.Prescription"/>`
+    `<bean name="prescription"       class="com.bharath.springcore.dependencycheck.Prescription"/>`
     
     (sin inyectar valores inicialmente).
-    
-2. En la clase `Prescription`:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<bean class="com.bharath.spring.springcore.dependencycheck.Prescription"
+		name="prescription"/>
+
+</beans>
+```
+
+1. En la clase `Prescription`:
     
     - Usar la anotación `@Required` **en el método setter** del campo `id`.
         
     - **Importante:** La anotación **no se aplica directamente al campo**, solo al **setter**.
-        
+
+```java
+package com.bharath.spring.springcore.dependencycheck;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Required;
+
+public class Prescription {
+
+	private int id;
+	private String patientName;
+	private List<String> medicines;
+
+	public int getId() {
+		return id;
+	}
+
+	@Override
+	public String toString() {
+		return "Prescription [id=" + id + ", patientName=" + patientName + ", medicines=" + medicines + "]";
+	}
+
+	@Required
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getPatientName() {
+		return patientName;
+	}
+
+	public void setPatientName(String patientName) {
+		this.patientName = patientName;
+	}
+
+	public List<String> getMedicines() {
+		return medicines;
+	}
+
+	public void setMedicines(List<String> medicines) {
+		this.medicines = medicines;
+	}
+
+}
+
+```
+
 3. Ejecutar la prueba:
     
     - Spring crea el bean,
         
     - Pero **no lanza excepción**, incluso si `id` vale `0` y los demás campos son `null`.
         
+
+```java
+package com.bharath.spring.springcore.dependencycheck;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Test {
+
+	public static void main(String[] args) {
+	
+		ApplicationContext context = new ClassPathXmlApplicationContext(
+				"com/bharath/spring/springcore/dependencycheck/config.xml");
+		Prescription prescription = (Prescription) context.getBean("prescription");
+		System.out.println(prescription);
+		
+	}
+}
+
+```
 
 ---
 
@@ -76,7 +154,25 @@ Para activarlo:
 - En `config.xml` agregar el bean:
     
     `<bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"/>`
-    
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<bean class="com.bharath.spring.springcore.dependencycheck.Prescription"
+		name="prescription" p:id="123"/>
+
+	<bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor" />
+
+</beans>
+```
+
 - Esto permite a Spring procesar la anotación `@Required`.
     
 
@@ -99,12 +195,29 @@ Para activarlo:
 
 - En `config.xml` asignar un valor:
     
-    `<bean id="prescription"       class="com.bharath.springcore.dependencycheck.Prescription"       p:id="123"/>`
+    `<bean name="prescription"       class="com.bharath.springcore.dependencycheck.Prescription"       p:id="123"/>`
     
 - Re-ejecutar la prueba:
     
     - Spring ya no lanza excepción porque `id` tiene valor.
         
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+    
+	<bean class="com.bharath.spring.springcore.dependencycheck.Prescription" name="prescription" p:id="123"/>
+	
+	<bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor" />
+
+</beans>
+```
 
 De forma similar, se pueden marcar como obligatorios los campos `patientName` y `medicines` aplicando `@Required` a sus respectivos **métodos setter**.
 
