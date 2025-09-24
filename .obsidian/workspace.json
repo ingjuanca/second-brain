@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af153316662a57ef",
+        "id": "efb374c6ad305427",
         "type": "tabs",
         "children": [
           {
-            "id": "875e4fd6c19cb461",
+            "id": "c8a8afd279f6371c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Setter Injection/Injecting Collections.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Injecting Collections"
-            }
-          },
-          {
-            "id": "564799c8dad764f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Setter Injection/Create, configurate and test a bean with Spring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Create, configurate and test a bean with Spring"
+              "title": "Spring Framework In Easy Steps"
             }
           }
         ]
@@ -208,12 +194,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "875e4fd6c19cb461",
+  "active": "c8a8afd279f6371c",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "0 Inbox/Untitled.base",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+    "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods/Life Cycle Methods Summary.md",
+    "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods/Life cycle methods using annotations.md",
+    "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods/Life Cycle methods using Spring Interfaces.md",
+    "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods/Life Cycle Methods.md",
+    "3 Resources/Datadog/Datadog.md",
+    "3 Resources/Datadog/Gestión del Rendimiento de Aplicaciones (APM).md",
+    "3 Resources/Datadog/Introducción.md",
+    "3 Resources/Generative IA/ChatGPT & Generative AI.md",
+    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Setter Injection Summary.md",
+    "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods",
+    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Injecting Reference Types.md",
+    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Properties - Create and Inject.md",
+    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Map - Create, configure and test.md",
+    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Set - Create , Configure and Test.md",
+    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Create, configurate and test a bean with Spring.md",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection/Injecting Collections.md",
     "2 Areas/English/Magazine/Future/The Rise of AI and the Future of Work.md",
-    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Create, configurate and test a bean with Spring.md",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection/Value as attribute and p schema or p namespace.md",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection/Create a Maven Project.md",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection",
@@ -223,29 +225,13 @@
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Two types of Dependency Injection.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Spring Container.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Spring Modules.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/What is Spring.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts",
-    "3 Resources/Spring Framework In Easy Steps/Introduction/Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Introduction",
-    "3 Resources/JMeter for Performance and API Testing/JMeter for Performance and API Testing.md",
     "3 Resources/Spring Framework In Easy Steps",
-    "3 Resources/Master Virtual Threads/Master Virtual Threads.md",
     "3 Resources/JMeter for Performance and API Testing",
-    "3 Resources/Master Virtual Threads/Introduction/Introduction.md",
     "3 Resources/Master Virtual Threads/Introduction",
-    "2 Areas/English/B2 - Upper-Intermediate 1/Reading  - Hot-desking the future.md",
     "3 Resources/Master Virtual Threads",
-    "2 Areas/English/B2 - Upper-Intermediate 1/Unit 1 - Hot-desking and open offices.md",
-    "3 Resources/Spring Cloud Fundamental/Service discovery using Eureka/Service discovery using Eureka.md",
-    "3 Resources/Spring Cloud Fundamental/Spring Cloud Fundamentals.md",
-    "3 Resources/Spring Cloud Fundamental/The Basics/Puertos.md",
-    "3 Resources/Spring Cloud Fundamental/The Basics/Qué es y por qué Spring Cloud.md",
-    "3 Resources/Spring Cloud Fundamental/Introducción/Cómo usar este curso..md",
-    "3 Resources/Spring Cloud Fundamental/Introducción/Curso e Introducción del Instructor.md",
-    "3 Resources/Spring Cloud Fundamental/Sleuth and Zipkin/Sleuth and Zipkin.md",
     "3 Resources/Spring Cloud Fundamental/Spring Cloud Bus",
-    "3 Resources/Spring Cloud Fundamental/Centralized Configuration",
-    "3 Resources/Spring Cloud Fundamental/Untitled 1",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",
     "4 Archive/images/Pasted image 20250811165946.png",
