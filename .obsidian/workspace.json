@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Inner Beans - Create the bean and config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Framework In Easy Steps"
+              "title": "Inner Beans - Create the bean and config"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "0e6cd3749cbf3f11",
   "lastOpenFiles": [
-    "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Dependency Check - Bean and Test Creation.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+    "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Inner Beans - Create the bean and config.md",
+    "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Dependency Check - Bean and Test Creation.md",
     "3 Resources/Spring Framework In Easy Steps/Dependency Check - Bean and Test Creation.md",
     "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes",
     "Untitled 1.canvas",
@@ -226,7 +227,6 @@
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Data Types of dependencies.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/The Spring Configuration File.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Two types of Dependency Injection.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Spring Container.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts",
     "3 Resources/Spring Framework In Easy Steps/Introduction",
     "3 Resources/Spring Framework In Easy Steps",

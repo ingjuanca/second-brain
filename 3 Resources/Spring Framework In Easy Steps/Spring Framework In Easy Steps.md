@@ -39,3 +39,14 @@
 - [[Dependency Check - Bean and Test Creation]]
 ### 7. Constructor Injection
 
+### 8. Using properties
+
+### 9. Auto-wiring
+
+### 10. Stand alone Collections
+
+### 11. Stereotype Annotations
+
+### 12. Spring Expression Language
+
+### 13. Injecting Interfaces
