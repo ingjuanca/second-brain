@@ -81,7 +81,6 @@ public class Test {
 `362423424`
 `234234234`
 
-
 ---
 
 ### 3️⃣ Volver a Singleton
@@ -110,14 +109,10 @@ public class Test {
 </beans>
 ```
 
-    
-    (o se omite el atributo),  
-    los **hash codes vuelven a ser iguales**, confirmando que existe **una sola instancia**.
-    
+(o se omite el atributo), los **hash codes vuelven a ser iguales**, confirmando que existe **una sola instancia**.
 
 `362423424`
 `362423424`
-
 
 ---
 
