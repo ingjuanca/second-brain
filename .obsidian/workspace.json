@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Bean Scopes.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Dependency Check,Inner Beans and Scope Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bean Scopes"
+              "title": "Dependency Check,Inner Beans and Scope Summary"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "0e6cd3749cbf3f11",
   "lastOpenFiles": [
-    "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Inner Beans - Create the bean and config.md",
     "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Bean Scopes.md",
+    "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Dependency Check,Inner Beans and Scope Summary.md",
+    "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Inner Beans - Create the bean and config.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Dependency Check - Bean and Test Creation.md",
     "3 Resources/Spring Framework In Easy Steps/Dependency Check - Bean and Test Creation.md",
@@ -226,7 +227,6 @@
     "3 Resources/Spring Framework In Easy Steps/Setter Injection",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Injecting Primitive Types.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Data Types of dependencies.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/The Spring Configuration File.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts",
     "3 Resources/Spring Framework In Easy Steps/Introduction",
     "3 Resources/Spring Framework In Easy Steps",
