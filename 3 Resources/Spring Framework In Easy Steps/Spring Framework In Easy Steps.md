@@ -37,9 +37,13 @@
 ### 6. Dependency check, Inner beans and Scopes
 
 - [[Dependency Check - Bean and Test Creation]]
+- [[Create the Bean and Configuration]]
+- [[Bean Scopes]]
+- [[Dependency Check,Inner Beans and Scope Summary]]
 ### 7. Constructor Injection
 
-
+- [[Create the Bean and Configuration]]
+- [[Ambiguity Problem]]
 ### 8. Using properties
 
 ### 9. Auto-wiring
