@@ -49,7 +49,9 @@
 [[Bean Externalization Introduction]]
 ## 9. Auto-wiring
 
-[[]]
+[[Auto-Wiring Introduction]]
+[[Auto-Wiring By Name]]
+[[Auto-Wiring using Constructor]]
 
 ### 10. Stand alone Collections
 

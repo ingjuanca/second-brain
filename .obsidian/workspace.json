@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Using the @Autowired Annotation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Framework In Easy Steps"
+              "title": "Using the @Autowired Annotation"
             }
           }
         ]
@@ -196,10 +196,11 @@
   },
   "active": "55781fa5234b5c2e",
   "lastOpenFiles": [
+    "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+    "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Using the @Autowired Annotation.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Auto-Wiring using Constructor.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Auto-Wiring Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Auto-Wiring By Name.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring",
     "3 Resources/Spring Framework In Easy Steps/Using properties/Bean Externalization Introduction.md",
     "Welcome.md",
@@ -228,7 +229,6 @@
     "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection/Injecting Reference Types.md",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection/Properties - Create and Inject.md",
-    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Map - Create, configure and test.md",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts",
     "3 Resources/Spring Framework In Easy Steps/Introduction",
