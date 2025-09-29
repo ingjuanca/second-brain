@@ -165,14 +165,7 @@ package com.bharath.spring.springcoreadvanced.autowiring;
 
 public class Employee {
 
-	Employee(Address address) {
-		this.address = address;
-	}
-
-	@Override
-	public String toString() {
-		return "Employee [address=" + address + "]";
-	}
+	private Address address;
 
 	public Address getAddress() {
 		return address;
@@ -182,12 +175,16 @@ public class Employee {
 		this.address = address;
 	}
 
-	private Address address;
+	@Override
+	public String toString() {
+		return "Employee [address=" + address + "]";
+	}
 
 }
 
 ```
-    - `Test`
+
+	- `Test`
 
 ```java
 package com.bharath.spring.springcoreadvanced.autowiring;
