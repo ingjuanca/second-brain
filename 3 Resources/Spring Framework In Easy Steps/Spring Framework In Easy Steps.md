@@ -46,13 +46,13 @@
 - [[Ambiguity Problem]]
 ### 8. Using properties
 
-[[Bean Externalization Introduction]]
+- [[Bean Externalization Introduction]]
 ## 9. Auto-wiring
 
-[[Auto-Wiring Introduction]]
-[[Auto-Wiring By Name]]
-[[Auto-Wiring using Constructor]]
-
+- [[Auto-Wiring Introduction]]
+- [[Auto-Wiring By Name]]
+- [[Auto-Wiring using Constructor]]
+- [[Using the @Autowired Annotation]]
 ### 10. Stand alone Collections
 
 ### 11. Stereotype Annotations
