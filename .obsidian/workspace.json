@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Using the @Qualifier.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using the @Qualifier"
+              "title": "Spring Framework In Easy Steps"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "55781fa5234b5c2e",
   "lastOpenFiles": [
+    "3 Resources/Spring Framework In Easy Steps/Auto-wiring/AutoWiring Summary.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Using the @Qualifier.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Using the @Autowired Annotation.md",
@@ -228,7 +229,6 @@
     "3 Resources/Generative IA/ChatGPT & Generative AI.md",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection/Setter Injection Summary.md",
     "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods",
-    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Injecting Reference Types.md",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts",
     "3 Resources/Spring Framework In Easy Steps/Introduction",
