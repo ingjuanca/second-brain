@@ -46,7 +46,10 @@
 - [[Ambiguity Problem]]
 ### 8. Using properties
 
-### 9. Auto-wiring
+[[Bean Externalization Introduction]]
+## 9. Auto-wiring
+
+
 
 ### 10. Stand alone Collections
 
