@@ -49,7 +49,7 @@
 [[Bean Externalization Introduction]]
 ## 9. Auto-wiring
 
-
+[[]]
 
 ### 10. Stand alone Collections
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Auto-Wiring using Constructor.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auto-Wiring using Constructor"
+              "title": "Spring Framework In Easy Steps"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "55781fa5234b5c2e",
   "lastOpenFiles": [
+    "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Auto-Wiring using Constructor.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Auto-Wiring Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Auto-Wiring By Name.md",
-    "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Auto-Wiring using Constructor.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring",
     "3 Resources/Spring Framework In Easy Steps/Using properties/Bean Externalization Introduction.md",
