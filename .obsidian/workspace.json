@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Using properties/Bean Externalization Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Framework In Easy Steps"
+              "title": "Bean Externalization Introduction"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "55781fa5234b5c2e",
   "lastOpenFiles": [
-    "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Dependency Check - Bean and Test Creation.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+    "3 Resources/Spring Framework In Easy Steps/Using properties/Bean Externalization Introduction.md",
+    "3 Resources/Spring Framework In Easy Steps/Using properties",
+    "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Dependency Check - Bean and Test Creation.md",
     "3 Resources/Spring Framework In Easy Steps/Constructor Injection/Ambiguity Problem.md",
     "3 Resources/Spring Framework In Easy Steps/Constructor Injection/Create the Bean and Configuration.md",
     "3 Resources/Spring Framework In Easy Steps/Constructor Injection",
@@ -226,13 +228,11 @@
     "3 Resources/Spring Framework In Easy Steps/Setter Injection/Injecting Collections.md",
     "2 Areas/English/Magazine/Future/The Rise of AI and the Future of Work.md",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection/Value as attribute and p schema or p namespace.md",
-    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Create a Maven Project.md",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts",
     "3 Resources/Spring Framework In Easy Steps/Introduction",
     "3 Resources/Spring Framework In Easy Steps",
     "3 Resources/JMeter for Performance and API Testing",
-    "3 Resources/Master Virtual Threads/Introduction",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",
     "4 Archive/images/Pasted image 20250811165946.png",
