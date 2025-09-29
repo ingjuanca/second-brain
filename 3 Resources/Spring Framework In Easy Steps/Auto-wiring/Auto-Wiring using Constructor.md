@@ -88,13 +88,9 @@ public class Employee {
     - El contenedor de Spring:
         
         - Lee el archivo de configuración,
-            
         - Detecta que el bean `employee` debe usar **constructor injection**,
-            
         - Busca en la configuración un bean que coincida con el **tipo de parámetro** del constructor (`Address`),
-            
         - Crea la instancia de `Address`,
-            
         - Invoca el **constructor de `Employee`**, inyectando automáticamente la dependencia.
             
 
