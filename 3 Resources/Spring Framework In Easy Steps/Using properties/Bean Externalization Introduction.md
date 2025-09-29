@@ -73,7 +73,13 @@ public MyDAO(String dbServer) {
 - En el archivo `config.xml`:
     
     ```xml
-    <beans xmlns:context="http://www.springframework.org/schema/context"        ...>     <context:property-placeholder         location="com/bharath/springcore/propertyplaceholder/database.properties"/>      <bean id="myDAO" class="com.bharath.springcore.propertyplaceholder.MyDAO">         <constructor-arg value="${dbServer}"/>     </bean> </beans>
+<beans xmlns:context="http://www.springframework.org/schema/context"        ...>     
+    <context:property-placeholder         location="com/bharath/springcore/propertyplaceholder/database.properties"/> 
+    
+	<bean id="myDAO" class="com.bharath.springcore.propertyplaceholder.MyDAO">
+		<constructor-arg value="${dbServer}"/> 
+	</bean> 
+</beans>
     ```
     
     - `<context:property-placeholder>` enlaza el archivo de propiedades.
@@ -88,7 +94,11 @@ public MyDAO(String dbServer) {
 
 - Clase `Test`:
     
-    `ApplicationContext context =     new ClassPathXmlApplicationContext(         "com/bharath/springcore/propertyplaceholder/config.xml");  MyDAO dao = (MyDAO) context.getBean("myDAO"); System.out.println(dao);`
+```java
+ApplicationContext context =     new ClassPathXmlApplicationContext(         "com/bharath/springcore/propertyplaceholder/config.xml");  
+MyDAO dao = (MyDAO) context.getBean("myDAO"); 
+System.out.println(dao);
+```
     
 - Al ejecutar:
     
