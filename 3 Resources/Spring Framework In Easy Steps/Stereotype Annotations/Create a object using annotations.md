@@ -190,8 +190,7 @@ public class Test {
 
 	public static void main(String[] args) {
 
-		ApplicationContext context = new ClassPathXmlApplicationContext(
-				"com/bharath/spring/springcoreadvanced/stereotype/annotations/config.xml");
+		ApplicationContext context = new ClassPathXmlApplicationContext("com/bharath/spring/springcoreadvanced/stereotype/annotations/config.xml");
 		Instructor instructor = (Instructor) context.getBean("inst");
 		System.out.println(instructor);
 		
