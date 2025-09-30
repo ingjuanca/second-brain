@@ -53,6 +53,7 @@
 - [[Auto-Wiring By Name]]
 - [[Auto-Wiring using Constructor]]
 - [[Using the @Autowired Annotation]]
+- [[Using the @Qualifier]]
 - [[AutoWiring Summary]]
 ### 10. Stand alone Collections
 

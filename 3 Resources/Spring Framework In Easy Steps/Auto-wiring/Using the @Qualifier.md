@@ -93,17 +93,17 @@ import org.springframework.beans.factory.annotation.Qualifier;
 
 public class Employee {
 
-	@Override
-	public String toString() {
-		return "Employee [address=" + address + "]";
-	}
-
+	@Qualifier("address123")
+	private Address address;
+	
 	public Address getAddress() {
 		return address;
 	}
 	
-	@Qualifier("address123")
-	private Address address;
+	@Override
+	public String toString() {
+		return "Employee [address=" + address + "]";
+	}
 
 }
 
