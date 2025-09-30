@@ -29,14 +29,21 @@ En esta lección se explica cómo configurar **scopes mediante anotaciones** en 
 
 1. En la clase de prueba, obtener dos veces el bean `Instructor`.
     
-    `Instructor instructor1 = context.getBean("instructor", Instructor.class); Instructor instructor2 = context.getBean("instructor", Instructor.class);`
+```java
+Instructor instructor1 = context.getBean("instructor"); 
+Instructor instructor2 = context.getBean("instructor");
+```
     
 2. Imprimir sus `hashCode`:
     
-    `System.out.println(instructor1.hashCode()); System.out.println(instructor2.hashCode());`
+```java
+System.out.println(instructor1.hashCode()); System.out.println(instructor2.hashCode());
+```
     
 3. La salida muestra el **mismo hashCode**, confirmando que **ambos apuntan al mismo objeto**.
     
+	`123456`
+	`123456`
 
 ---
 
@@ -46,7 +53,11 @@ En esta lección se explica cómo configurar **scopes mediante anotaciones** en 
     
 - Junto a la anotación `@Component`, se agrega:
     
-    `@Component @Scope("prototype") public class Instructor { ... }`
+```java
+@Component 
+@Scope("prototype") 
+public class Instructor { ... }
+```
     
 - Importar `@Scope` desde:
     
@@ -55,7 +66,6 @@ En esta lección se explica cómo configurar **scopes mediante anotaciones** en 
 - Ahora, al ejecutar la prueba:
     
     - Los `hashCode` de `instructor1` y `instructor2` serán **diferentes**,
-        
     - Porque el contenedor Spring **crea un nuevo objeto cada vez** que se solicita.
         
 
@@ -70,9 +80,7 @@ En esta lección se explica cómo configurar **scopes mediante anotaciones** en 
 - Valores comunes:
     
     - `"singleton"` → un solo objeto compartido (por defecto).
-        
     - `"prototype"` → un nuevo objeto en cada solicitud.
-        
     - `"request"`, `"session"`, `"globalsession"` → aplican en contextos web.
         
 
