@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Stand alone Collections/Create and inject a standalone list.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Stereotype Annotations/Create a object using annotations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create and inject a standalone list"
+              "title": "Create a object using annotations"
             }
           }
         ]
@@ -194,11 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97e248fc6fac513e",
+  "active": "55781fa5234b5c2e",
   "lastOpenFiles": [
+    "3 Resources/Spring Framework In Easy Steps/Stereotype Annotations/Introduction.md",
+    "3 Resources/Spring Framework In Easy Steps/Stereotype Annotations/Create a object using annotations.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
-    "3 Resources/Spring Framework In Easy Steps/Stand alone Collections",
+    "3 Resources/Spring Framework In Easy Steps/Stereotype Annotations",
     "3 Resources/Spring Framework In Easy Steps/Stand alone Collections/Create and inject a standalone list.md",
+    "3 Resources/Spring Framework In Easy Steps/Stand alone Collections",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Using the @Qualifier.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring/AutoWiring Summary.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Using the @Autowired Annotation.md",
@@ -227,11 +230,9 @@
     "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods/Life Cycle Methods.md",
     "3 Resources/Datadog/Datadog.md",
     "3 Resources/Datadog/Gestión del Rendimiento de Aplicaciones (APM).md",
-    "3 Resources/Datadog/Introducción.md",
     "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts",
-    "3 Resources/Spring Framework In Easy Steps/Introduction",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",
     "4 Archive/images/Pasted image 20250811165946.png",

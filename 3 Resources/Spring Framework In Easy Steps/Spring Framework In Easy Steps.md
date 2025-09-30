@@ -57,7 +57,10 @@
 - [[AutoWiring Summary]]
 ### 10. Stand alone Collections
 
+- [[Create and inject a standalone list]]
 ### 11. Stereotype Annotations
+
+
 
 ### 12. Spring Expression Language
 
