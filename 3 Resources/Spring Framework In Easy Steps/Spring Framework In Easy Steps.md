@@ -47,7 +47,8 @@
 - [[Create a object using annotations]]
 - [[Using the @Scope annotation]]
 - [[Using @Value Annotation with primitives and collections]]
-
+- [[Auto-Wiring Objects]]
+- [[Stereotype Annotations Summary]]
 ### 12. Spring Expression Language
 
 ### 13. Injecting Interfaces
