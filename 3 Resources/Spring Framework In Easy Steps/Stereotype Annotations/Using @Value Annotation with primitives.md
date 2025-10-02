@@ -67,9 +67,7 @@ public class Instructor {
 	public String toString() {
 		return "Instructor [id=" + id + ", name=" + name + "]";
 	}
-
 }
-
 ```
 ---
 
@@ -106,7 +104,6 @@ Para inyectar listas, sets o mapas con `@Value`, se siguen **dos pasos**:
 - Se debe importar el **namespace `util`** en el XML.
 - Se da un **id** a la colección, en este caso `topics`.
     
-
 #### Paso 2: Referenciar la colección en el POJO con `@Value`
 
 ```java
