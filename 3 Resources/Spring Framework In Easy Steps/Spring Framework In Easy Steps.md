@@ -43,9 +43,10 @@
 - [[Create and inject a standalone list]]
 ### 11. Stereotype Annotations
 
-[[3 Resources/Spring Framework In Easy Steps/Stereotype Annotations/Introduction|Introduction]]
-[[Create a object using annotations]]
-[[Using the @Scope annotation]]
+- [[3 Resources/Spring Framework In Easy Steps/Stereotype Annotations/Introduction|Introduction]]
+- [[Create a object using annotations]]
+- [[Using the @Scope annotation]]
+- [[Using @Value Annotation with primitives and collections]]
 
 ### 12. Spring Expression Language
 
