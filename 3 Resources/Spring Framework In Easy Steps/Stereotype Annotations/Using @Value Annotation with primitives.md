@@ -17,7 +17,8 @@ En esta lección se explica cómo usar **@Value** para inyectar valores en beans
 ```java
 @Value("Java Architect and Instructor")
 private String title;  
-@Value("Bharath Thippireddy") private String name;
+@Value("Bharath Thippireddy") 
+private String name;
 ```
 
 - La anotación debe importarse desde:
@@ -36,33 +37,35 @@ package com.bharath.spring.springcoreadvanced.stereotype.annotations;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
-@Component
-public class Profile {
+@Component("inst")
+@Scope("prototype")
+public class Instructor {
 
-	@Value("Java Architect and Instructor")
-	private String title;
-	@Value("Vivekananda Consulting")
-	private String company;
+	@Value("10")
+	private int id = 15;
+	
+	@Value("Bharath Thippireddy")
+	private String name = "John";
+	
+	public int getId() {
+		return id;
+	}
 
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+	
 	@Override
 	public String toString() {
-		return "Profile [title=" + title + ", company=" + company + "]";
-	}
-
-	public String getTitle() {
-		return title;
-	}
-
-	public void setTitle(String title) {
-		this.title = title;
-	}
-
-	public String getCompany() {
-		return company;
-	}
-
-	public void setCompany(String company) {
-		this.company = company;
+		return "Instructor [id=" + id + ", name=" + name + "]";
 	}
 
 }
@@ -76,27 +79,110 @@ Para inyectar listas, sets o mapas con `@Value`, se siguen **dos pasos**:
 
 #### Paso 1: Definir la colección en XML con `util:schema`
 
-`<util:list id="topics" list-class="java.util.LinkedList">     <value>Java Web Services</value>     <value>Core Java</value>     <value>XSLT</value> </util:list>`
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p" xmlns:c="http://www.springframework.org/schema/c"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd
+     http://www.springframework.org/schema/util
+    http://www.springframework.org/schema/util/spring-util.xsd">
+
+	<context:component-scan base-package="com.bharath.spring.springcoreadvanced.stereotype.annotations"/>
+	
+	<util:list list-class="java.util.LinkedList" id="topics">
+		<value>Java Web Services</value>
+		<value>Core java</value>
+		<value>XSLT</value>
+	</util:list>
+
+</beans>
+```
 
 - Se debe importar el **namespace `util`** en el XML.
-    
 - Se da un **id** a la colección, en este caso `topics`.
     
 
 #### Paso 2: Referenciar la colección en el POJO con `@Value`
 
-`@Value("#{topics}") private List<String> topics;`
+```java
+package com.bharath.spring.springcoreadvanced.stereotype.annotations;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
+
+@Component("inst")
+@Scope("prototype")
+public class Instructor {
+
+	@Value("10")
+	private int id = 15;
+	
+	@Value("Bharath Thippireddy")
+	private String name = "John";
+	
+	@Value("#{topics}") 
+	private List<String> topics;
+	
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	@Override
+	public String toString() {
+		return "Instructor [id=" + id + ", name=" + name + ", topics=" + topics + "]";
+	}
+
+```
 
 - Aquí se usa **Spring Expression Language (SpEL)**.
     
 - La sintaxis es:
     
     - `#{idDelBean}`
-        
     - El `id` corresponde al definido en el XML (`topics`).
         
 - Al ejecutar, Spring inyecta la colección definida en el archivo XML dentro del bean `Instructor`.
-    
+
+```java
+package com.bharath.spring.springcoreadvanced.stereotype.annotations;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Test {
+
+	public static void main(String[] args) {
+
+		ApplicationContext context = new ClassPathXmlApplicationContext(
+				"com/bharath/spring/springcoreadvanced/stereotype/annotations/config.xml");
+		Instructor instructor = (Instructor) context.getBean("inst");
+		System.out.println(instructor);
+		
+		Instructor instructor2 = (Instructor) context.getBean("inst");
+		System.out.println(instructor2);
+		
+	}
+
+}
+
+```
 
 ---
 
