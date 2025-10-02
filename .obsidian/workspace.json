@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/What is Spring.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Stereotype Annotations/Using @Value Annotation with primitives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Spring"
+              "title": "Using @Value Annotation with primitives"
             }
           }
         ]
@@ -197,6 +197,9 @@
   "active": "55781fa5234b5c2e",
   "lastOpenFiles": [
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Setter Injection.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Spring Core Concepts.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/What is Spring.md",
     "3 Resources/Spring Framework In Easy Steps/Stereotype Annotations/Using @Value Annotation with primitives.md",
     "3 Resources/Spring Framework In Easy Steps/Stereotype Annotations/Using the @Scope annotation.md",
     "3 Resources/Spring Framework In Easy Steps/Stereotype Annotations/Create a object using annotations.md",
@@ -227,9 +230,6 @@
     "Untitled 1.canvas",
     "0 Inbox/Untitled.base",
     "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods/Life Cycle Methods Summary.md",
-    "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods/Life cycle methods using annotations.md",
-    "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods/Life Cycle methods using Spring Interfaces.md",
-    "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods/Life Cycle Methods.md",
     "3 Resources/Spring Framework In Easy Steps/Life Cycle Methods",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection",
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts",
