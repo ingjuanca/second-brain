@@ -96,24 +96,20 @@ import org.springframework.stereotype.Component;
 @Scope("prototype")
 public class Instructor {
 
-	@Value("#{T(java.lang.Integer).MIN_VALUE}")
+	@Value("10")
 	private int id = 15;
-	@Value("#{new java.lang.String('Bharath Thippireddy')}")
+	@Value("Bharath Thippireddy")
 	private String name = "John";
 
 	@Value("#{topics}")
 	private List<String> topics;
-	
-	@Value("#{2+4>8?true:false}")
-	private boolean active;
 
 	@Autowired
 	private Profile profile;
 
 	@Override
 	public String toString() {
-		return "Instructor [id=" + id + ", name=" + name + ", topics=" + topics + ", active=" + active + ", profile="
-				+ profile + "]";
+		return "Instructor [id=" + id + ", name=" + name + ", topics=" + topics + ", profile="	+ profile + "]";
 	}
 
 	public int getId() {
