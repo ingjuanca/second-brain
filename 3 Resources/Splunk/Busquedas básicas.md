@@ -3,7 +3,6 @@
 
 ## Resumen de Ideas Clave sobre Búsquedas y la Interfaz de Splunk
 
-
 ### La Interfaz de Splunk
 
 - **Barra Superior:** Contiene opciones fijas relacionadas con la **administración** de la plataforma, los **settings**, los _jobs_, y las **alertas**3.
@@ -19,9 +18,8 @@
     
     - Splunk proporciona una ayuda **sugiriendo términos** mientras se escribe.
         
-- **Rango de Tiempo:** Hay un desplegable para seleccionar el rango de tiempo de la búsqueda11. Lo recomendado es **restringir este rango** (ejemplo: "últimos siete días") porque usar "all time" (_desde el principio de los tiempos_) es muy ineficiente y consume muchos recursos12.
+- **Rango de Tiempo:** Hay un desplegable para seleccionar el rango de tiempo de la búsqueda. Lo recomendado es **restringir este rango** (ejemplo: "últimos siete días") porque usar "all time" (_desde el principio de los tiempos_) es muy ineficiente y consume muchos recursos.
     
-
 ### Opciones y Resultados de la Búsqueda
 
 - **Resultados y Rango:** Al hacer la búsqueda, Splunk muestra el **número de resultados** encontrados y el **rango de tiempo** en el que se realizó la búsqueda.
@@ -66,7 +64,7 @@
 
 - Splunk permite usar **operaciones binarias** en las búsquedas.
     
-- **Operador AND:** Si no se escribe ningún operador entre los términos, se asume que es un **AND**333333.
+- **Operador AND:** Si no se escribe ningún operador entre los términos, se asume que es un **AND**.
     
     - _Ejemplo:_ `fail SSH` (eventos que contienen `fail` **Y** `SSH`).
         
@@ -76,6 +74,6 @@
         
     - _Ejemplo NOT:_ `fail NOT password` (eventos con `fail` pero **NO** con `password`).
         
-- Se pueden usar **paréntesis** para agrupar y organizar las búsquedas complejas38.
+- Se pueden usar **paréntesis** para agrupar y organizar las búsquedas complejas.
     
 
