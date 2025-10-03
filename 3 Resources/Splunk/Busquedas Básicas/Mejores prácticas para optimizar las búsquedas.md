@@ -50,24 +50,14 @@ La optimización de búsquedas es crucial, especialmente en entornos reales de p
     
     - **`earliest`**: El evento más temprano (hace, por ejemplo, 7 días).
         
-    - **`latest`**: El evento más tardío (ahora mismo)17.
+    - **`latest`**: El evento más tardío (ahora mismo).
         
-    - Se utiliza una
-        
-        **nomenclatura** específica para el tiempo (ej. **`d`** para días, **`m`** para minutos, **`s`** para segundos, **`mon`** para meses)18.
+    - Se utiliza una **nomenclatura** específica para el tiempo (ej. **`d`** para días, **`m`** para minutos, **`s`** para segundos, **`mon`** para meses).
         
 
 ### 5. Monitoreo en Tiempo Real (_Real-Time_)
 
-- La opción
+- La opción **"Real-Time"** se utiliza si tienes una fuente de eventos que está cambiando constantemente.
     
-    **"Real-Time"** se utiliza si tienes una fuente de eventos que está cambiando constantemente19.
+- Al aplicar un rango (ej. eventos producidos **hace 7 días**) y activar el **"Real-Time"**, Splunk va **refrescando y añadiendo nuevos eventos** automáticamente a los resultados de la búsqueda.
     
-- Al aplicar un rango (ej. eventos producidos
-    
-    **hace 7 días**) y activar el **"Real-Time"**, Splunk va **refrescando y añadiendo nuevos eventos** automáticamente a los resultados de la búsqueda20202020.
-    
-
----
-
-Estas son las buenas prácticas fundamentales para optimizar tus consultas. ¿Te gustaría practicar cómo aplicar estos filtros de `index` y `sourcetype` en una búsqueda de ejemplo?
