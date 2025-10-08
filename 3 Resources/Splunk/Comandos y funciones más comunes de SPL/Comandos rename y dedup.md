@@ -15,16 +15,30 @@ El comando `rename` permite **cambiar el nombre de los campos** en los resultado
 
 ```Splunk
 index="main" source="access_30days.log"
+| table productId
 | rename productId AS "Código de Producto"
 ```
 
 - **Encadenamiento de Comandos (Pipes):** Es crucial recordar que, una vez que se ejecuta `rename`, el nombre original del campo **deja de existir** para los comandos subsiguientes.
     
     - Si un comando posterior (como `fields` o `table`) intenta referenciar el nombre original (`Productivity`), **fallará**.
-        
+
+```Splunk
+index="main" source="access_30days.log"
+| table productId action
+| rename productId AS "Código de Producto" action AS "Acción"
+| fields -productId
+```
+
     - Para trabajar con el campo después de renombrarlo, se debe usar **el nuevo nombre** (`código de producto`).
         
 
+```Splunk
+index="main" source="access_30days.log"
+| table productId action
+| rename productId AS "Código de Producto" action AS "Acción"
+| fields - "Código de Producto"
+```
 ### 2. Comando `dedup`
 
 El comando `dedup` se utiliza para **eliminar eventos duplicados** según los valores de uno o más campos especificados. Su objetivo es quedarse solo con los **valores únicos**.
@@ -38,4 +52,9 @@ El comando `dedup` se utiliza para **eliminar eventos duplicados** según los va
     - `| dedup campo1, campo2`.
         
 
+```Splunk
+index="main" source="access_30days.log"
+| table productId action
+| dedup productId, action
+```
 ---
