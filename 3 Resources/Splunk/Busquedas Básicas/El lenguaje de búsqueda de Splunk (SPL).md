@@ -33,7 +33,11 @@ El documento ilustra el encadenamiento de comandos para calcular el total de _by
 3. **Tercer Comando (Formato):** Se usa una operación para formatear el número entero resultante. Transforma el número en un  _string_, añade **separadores de coma** cada tres dígitos y **concatena** la palabra "bytes" para un formato más legible.
     
 
-`index=main sourcetype=access_30day.log action=purchase AND status IN (500, 503) | stats sum(bytes) AS bytes_totales | fieldformat bytes_totales = tostring(bytes_totales, "commas") + "B"`
+```splunk
+
+index=main sourcetype=access_30day.log action=purchase AND status IN (500, 503) | stats sum(bytes) AS bytes_totales 
+| fieldformat bytes_totales = tostring(bytes_totales, "commas") + "B"
+```
 ### 4. Configuración del Editor SPL
 
 Splunk ayuda visualmente con el **resaltado de sintaxis**:
