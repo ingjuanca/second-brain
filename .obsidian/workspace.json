@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos field y table.md",
+                "file": "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos sort, top y rare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos field y table"
+              "title": "Comandos sort, top y rare"
             }
           }
         ]
@@ -197,10 +197,11 @@
   "active": "f89b6d2e1f967961",
   "lastOpenFiles": [
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos rename y dedup.md",
+    "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos sort, top y rare.md",
+    "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos field y table.md",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos y funciones más comunes de SPL.md",
     "3 Resources/Splunk/Splunk.md",
     "3 Resources/Splunk/Busquedas Básicas/Busquedas básicas.md",
-    "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos field y table.md",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection/Injecting Collections.md",
     "3 Resources/Spring Framework In Easy Steps/Setter Injection/Setter Injection.md",
@@ -226,7 +227,6 @@
     "3 Resources/Spring Framework In Easy Steps/Stand alone Collections/Create and inject a standalone list.md",
     "3 Resources/Spring Framework In Easy Steps/Stand alone Collections",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring/Using the @Qualifier.md",
-    "3 Resources/Spring Framework In Easy Steps/Auto-wiring/AutoWiring Summary.md",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring",
     "3 Resources/Spring Framework In Easy Steps/Using properties",
     "3 Resources/Spring Framework In Easy Steps/Constructor Injection",
