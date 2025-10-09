@@ -52,6 +52,10 @@ Una expresión de SpEL siempre se escribe dentro de una anotación `@Value`, con
 - El contenedor evalúa `66 + 44 = 110` y asigna ese valor al campo `id`.
     
 
+```java
+@Value("#{66 + 44}")
+private int id = 15;
+```
 #### Ejemplo 2: Operador ternario
 
 `@Value("#{5 > 6 ? 22 : 33}") private int number;`
@@ -61,6 +65,11 @@ Una expresión de SpEL siempre se escribe dentro de una anotación `@Value`, con
 
 > SpEL soporta operadores aritméticos, relacionales y lógicos, así como el operador ternario `condición ? valor1 : valor2`.
 
+```java
+@Value("#{5>6?22:33}")
+private boolean active;
+```
+
 ---
 
 ### 🔹 Uso de **métodos estáticos**
@@ -69,7 +78,10 @@ SpEL también permite invocar **métodos estáticos** dentro de las expresiones.
 
 #### Ejemplo:
 
-`@Value("#{T(java.lang.Math).abs(-99)}") private int id;`
+```java
+@Value("#{T(java.lang.Math).abs(-99)}") 
+private int id;
+```
 
 **Explicación:**
 
@@ -92,7 +104,10 @@ También se pueden crear **nuevos objetos** con el operador `new` dentro de la e
 
 #### Ejemplo:
 
-`@Value("#{new Integer(88)}") private Integer number;`
+```java
+@Value("#{new Integer(88)}") 
+private Integer number;
+```
 
 - Spring creará un nuevo objeto `Integer` y asignará el valor `88`.
     
@@ -105,7 +120,10 @@ SpEL permite acceder a **constantes estáticas** de clases Java:
 
 #### Ejemplo:
 
-`@Value("#{T(java.lang.Integer).MIN_VALUE}") private int minValue;`
+```java
+@Value("#{T(java.lang.Integer).MIN_VALUE}") 
+private int minValue;
+```
 
 - Aquí, `T(java.lang.Integer)` hace referencia a la clase `Integer`.
     
@@ -116,24 +134,39 @@ SpEL permite acceder a **constantes estáticas** de clases Java:
 
 De la misma forma, se puede acceder a `MAX_VALUE`:
 
-`@Value("#{T(java.lang.Integer).MAX_VALUE}")`
+```java
+@Value("#{T(java.lang.Integer).MAX_VALUE}")
+```
 
 ---
 
 ### 🔹 Ejemplo completo
 
-`@Component public class Instructor {          @Value("#{66 + 44}")     private int id; // Resultado: 110      @Value("#{T(java.lang.Math).abs(-99)}")     private int positiveId; // Resultado: 99      @Value("#{new Integer(88)}")     private Integer objectId; // Resultado: 88      @Value("#{T(java.lang.Integer).MIN_VALUE}")     private int minValue; // Resultado: -2147483648 }`
+```java
+@Component public class Instructor {          
+@Value("#{66 + 44}")     
+private int id; // Resultado: 110      
+
+@Value("#{T(java.lang.Math).abs(-99)}")     
+private int positiveId; // Resultado: 99      
+
+@Value("#{new Integer(88)}")     
+private Integer objectId; // Resultado: 88      
+
+@Value("#{T(java.lang.Integer).MIN_VALUE}")     
+private int minValue; // Resultado: -2147483648 }
+```
 
 ---
 
 ### 🔹 Resumen general
 
-|Característica|Descripción|Ejemplo|
-|---|---|---|
-|**Expresiones básicas**|Se evalúan operaciones matemáticas, lógicas o ternarias.|`#{5 > 3 ? 1 : 0}`|
-|**Métodos estáticos**|Permite llamar funciones estáticas con `T(<clase>)`.|`#{T(java.lang.Math).abs(-9)}`|
-|**Objetos nuevos**|Permite crear instancias de clases.|`#{new Integer(100)}`|
-|**Constantes estáticas**|Accede a valores `final static` de clases Java.|`#{T(java.lang.Integer).MAX_VALUE}`|
+| Característica           | Descripción                                              | Ejemplo                             |
+| ------------------------ | -------------------------------------------------------- | ----------------------------------- |
+| **Expresiones básicas**  | Se evalúan operaciones matemáticas, lógicas o ternarias. | `#{5 > 3 ? 1 : 0}`                  |
+| **Métodos estáticos**    | Permite llamar funciones estáticas con `T(<clase>)`.     | `#{T(java.lang.Math).abs(-9)}`      |
+| **Objetos nuevos**       | Permite crear instancias de clases.                      | `#{new Integer(100)}`               |
+| **Constantes estáticas** | Accede a valores `final static` de clases Java.          | `#{T(java.lang.Integer).MAX_VALUE}` |
 
 ---
 
