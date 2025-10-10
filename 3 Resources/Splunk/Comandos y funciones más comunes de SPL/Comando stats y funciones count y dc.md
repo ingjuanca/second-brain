@@ -1,4 +1,4 @@
-
+	
 ---
 
 ## Resumen: Comando `stats`, `count` y `dc` en Splunk SPL
