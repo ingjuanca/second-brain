@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Funciones List y Value.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Spring JDBC/Introduction - Spring JDBC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funciones List y Value"
+              "title": "Introduction - Spring JDBC"
             }
           }
         ]
@@ -196,9 +196,13 @@
   },
   "active": "1532731d7a918641",
   "lastOpenFiles": [
+    "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring JDBC/Introduction - Spring JDBC.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring JDBC",
+    "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces/Using Annotations.md",
+    "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Funciones List y Value.md",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos y funciones más comunes de SPL.md",
     "3 Resources/Splunk/Splunk.md",
-    "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Funciones List y Value.md",
     "4 Archive/Splunk_Queries/Splunk Queries.md",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos rename y dedup.md",
     "4 Archive/Splunk_Queries",
@@ -210,9 +214,7 @@
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comando stats y funciones count y dc.md",
     "3 Resources/Splunk/Busquedas Básicas/Mejores prácticas para optimizar las búsquedas.md",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Funciones Sum y Avg.md",
-    "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces/Using Annotations.md",
     "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces/Injecting Interfaces.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces",
     "3 Resources/Spring Framework In Easy Steps/Spring Expression Language/Spring Expression Language.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Expression Language",
@@ -225,13 +227,11 @@
     "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes/Dependency Check - Bean and Test Creation.md",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos sort, top y rare.md",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL",
-    "3 Resources/Spring Framework In Easy Steps/Setter Injection/Injecting Collections.md",
     "3 Resources/Splunk/Busquedas Básicas",
     "3 Resources/Splunk",
     "3 Resources/Spring Framework In Easy Steps/Stereotype Annotations",
     "3 Resources/Spring Framework In Easy Steps/Stand alone Collections",
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring",
-    "3 Resources/Spring Framework In Easy Steps/Using properties",
     "Untitled 1.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",
