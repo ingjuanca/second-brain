@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Spring Expression Language/Spring Expression Language.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces/Using Annotations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Expression Language"
+              "title": "Using Annotations"
             }
           }
         ]
@@ -196,7 +196,10 @@
   },
   "active": "85b1c3fd99f8f1e9",
   "lastOpenFiles": [
+    "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces/Injecting Interfaces.md",
+    "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces/Using Annotations.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+    "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces",
     "3 Resources/Spring Framework In Easy Steps/Spring Expression Language/Spring Expression Language.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Expression Language",
     "3 Resources/Spring Cloud Fundamental/Spring Cloud Fundamentals.md",
@@ -222,8 +225,6 @@
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Spring Core Concepts.md",
     "3 Resources/Spring Framework In Easy Steps/Using properties/Bean Externalization Introduction.md",
     "3 Resources/Splunk/Busquedas Básicas/El lenguaje de búsqueda de Splunk (SPL).md",
-    "3 Resources/Splunk/Busquedas Básicas/Mejores prácticas para optimizar las búsquedas.md",
-    "3 Resources/Splunk/Busquedas Básicas/Busquedas básicas e interfáz.md",
     "3 Resources/Splunk/Busquedas Básicas",
     "3 Resources/Splunk",
     "3 Resources/Spring Framework In Easy Steps/Stereotype Annotations",
@@ -231,7 +232,6 @@
     "3 Resources/Spring Framework In Easy Steps/Auto-wiring",
     "3 Resources/Spring Framework In Easy Steps/Using properties",
     "3 Resources/Spring Framework In Easy Steps/Constructor Injection",
-    "3 Resources/Spring Framework In Easy Steps/Dependency check, Inner beans and Scopes",
     "Untitled 1.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",

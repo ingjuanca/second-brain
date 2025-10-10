@@ -51,12 +51,20 @@
 - [[Stereotype Annotations Summary]]
 ### 12. Spring Expression Language
 
+- [[Spring Expression Language]]
 ### 13. Injecting Interfaces
 
-sdfsdf
+- [[Injecting Interfaces]]
+dsfsd
+### 14. Spring JDBC
 
+dfsdfsdfsdf
 
-sdfsdfs
+### 15. Spring ORM
 
+fsdfsdfsdfsdfs
 
-sdfs
+### 16. Spring MVC
+
+### 17. Sending data from Controller to UI
+
