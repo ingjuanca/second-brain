@@ -201,7 +201,7 @@ public class OrderBOImpl implements OrderBO {
 
 ---
 
-### 🔹 9. Verificación del funcionamiento
+### 🔹 8. Verificación del funcionamiento
 
 Al ejecutar la prueba con `@Qualifier("dao1")`:
 
@@ -221,7 +221,7 @@ Esto demuestra que **Spring puede cambiar la implementación inyectada sin modif
 
 ---
 
-### 🔹 10. Resumen general
+### 🔹 9. Resumen general
 
 | Anotación                | Función                                                                               |
 | ------------------------ | ------------------------------------------------------------------------------------- |
