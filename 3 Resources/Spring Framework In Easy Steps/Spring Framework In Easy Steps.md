@@ -61,12 +61,18 @@
 
 - [[Introduction - Spring JDBC]]
 - [[Create the DTO and DAOs Classes]]
-- 
+- [[Auto-wire JDBCTemplate]]
+- [[Spring JDBC Summary]]
 ### 15. Spring ORM
 
-fsdfsdfsdfsdfs
+- [[ORM Introduction]]
+sdfsdfsf
+dfsdfsdfsfd
+sdffsdfs
 
 ### 16. Spring MVC
+
+
 
 ### 17. Sending data from Controller to UI
 
