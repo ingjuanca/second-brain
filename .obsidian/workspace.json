@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Spring ORM/Implement the update, delete method, find and findAll methods.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Spring ORM/Spring ORM Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implement the update, delete method, find and findAll methods"
+              "title": "Spring ORM Summary"
             }
           }
         ]
@@ -197,8 +197,9 @@
   "active": "38812e82170fdffa",
   "lastOpenFiles": [
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring ORM/Create the Spring ORM project.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring ORM/Spring ORM Summary.md",
     "3 Resources/Spring Framework In Easy Steps/Spring ORM/Implement the update, delete method, find and findAll methods.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring ORM/Create the Spring ORM project.md",
     "3 Resources/Spring Framework In Easy Steps/Spring ORM/ORM Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Spring ORM",
     "3 Resources/Spring Framework In Easy Steps/Spring JDBC/Spring JDBC Summary.md",
@@ -224,7 +225,6 @@
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comando stats y funciones count y dc.md",
     "3 Resources/Splunk/Busquedas Básicas/Mejores prácticas para optimizar las búsquedas.md",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Funciones Sum y Avg.md",
-    "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces/Injecting Interfaces.md",
     "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces",
     "3 Resources/Spring Framework In Easy Steps/Spring Expression Language",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL",
