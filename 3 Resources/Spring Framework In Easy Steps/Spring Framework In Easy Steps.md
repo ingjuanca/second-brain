@@ -66,8 +66,9 @@
 ### 15. Spring ORM
 
 - [[ORM Introduction]]
-sdfsdfsf
-dfsdfsdfsfd
+- [[Create the Spring ORM project]]
+i
+sdfsdfs
 sdffsdfs
 
 ### 16. Spring MVC
