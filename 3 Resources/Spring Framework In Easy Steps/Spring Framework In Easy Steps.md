@@ -67,9 +67,7 @@
 
 - [[ORM Introduction]]
 - [[Create the Spring ORM project]]
-i
-sdfsdfs
-sdffsdfs
+- [[Implement the update, delete method, find and findAll methods]]
 
 ### 16. Spring MVC
 

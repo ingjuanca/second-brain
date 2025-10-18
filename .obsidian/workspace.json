@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Spring ORM/Create the Spring ORM project.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Spring ORM/Implement the update, delete method, find and findAll methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create the Spring ORM project"
+              "title": "Implement the update, delete method, find and findAll methods"
             }
           }
         ]
@@ -198,6 +198,7 @@
   "lastOpenFiles": [
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "3 Resources/Spring Framework In Easy Steps/Spring ORM/Create the Spring ORM project.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring ORM/Implement the update, delete method, find and findAll methods.md",
     "3 Resources/Spring Framework In Easy Steps/Spring ORM/ORM Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Spring ORM",
     "3 Resources/Spring Framework In Easy Steps/Spring JDBC/Spring JDBC Summary.md",
@@ -225,7 +226,6 @@
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Funciones Sum y Avg.md",
     "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces/Injecting Interfaces.md",
     "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces",
-    "3 Resources/Spring Framework In Easy Steps/Spring Expression Language/Spring Expression Language.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Expression Language",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL",
     "3 Resources/Splunk/Busquedas Básicas",
