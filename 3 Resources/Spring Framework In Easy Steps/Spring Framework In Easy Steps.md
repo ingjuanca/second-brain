@@ -69,10 +69,9 @@
 - [[Create the Spring ORM project]]
 - [[Implement the update, delete method, find and findAll methods]]
 - [[Spring ORM Summary]]
-
 ### 16. Spring MVC
 
-
-
+- [[Spring MVC Introduction]]
+- [[MVC Maven web application]]
 ### 17. Sending data from Controller to UI
 

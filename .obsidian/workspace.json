@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Spring MVC/MVC Maven web application.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MVC Maven web application"
+              "title": "Spring Framework In Easy Steps"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "6d3be72a6215db4d",
   "lastOpenFiles": [
-    "3 Resources/Spring Framework In Easy Steps/Spring MVC/Spring MVC Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Spring MVC/MVC Maven web application.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring MVC/Spring MVC Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Spring MVC",
     "3 Resources/Spring Cloud Fundamental/Spring Cloud Fundamentals.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
