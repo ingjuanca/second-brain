@@ -185,9 +185,7 @@ public ModelAndView hello() {
 📌 Explicación:
 
 - `@Controller` indica que esta clase maneja solicitudes HTTP.
-    
 - `@RequestMapping("/hello")` vincula el método con la URL `/hello`.
-    
 - Retorna un `ModelAndView` con la vista `"hello"`.
     
 
@@ -197,7 +195,9 @@ public ModelAndView hello() {
 
 En `dispatcher-servlet.xml`, agregar:
 
-`<context:component-scan base-package="com.bharath.spring.springmvc.controller" />`
+```xml
+<context:component-scan base-package="com.bharath.spring.springmvc.controller" />
+```
 
 Esto permite que Spring detecte automáticamente las clases anotadas con `@Controller`.
 
@@ -211,7 +211,16 @@ En `WEB-INF`, crear la carpeta `views`, y dentro de ella un archivo:
 
 Contenido básico:
 
-`<html> <head><title>Hello</title></head> <body>     <h1>Hello from Spring MVC!</h1> </body> </html>`
+```jsp
+<html> 
+	<head>
+		<title>Hello</title>
+	</head> 
+	<body>     
+		<h1>Hello from Spring MVC!</h1> 
+	</body> 
+</html>
+```
 
 ---
 
