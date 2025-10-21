@@ -75,6 +75,8 @@
 - [[MVC Maven web application]]
 ### 17. Sending data from Controller to UI
 
+- [[3 Resources/Spring Framework In Easy Steps/Sending data from Controller to UI/Introduction|Introduction]]
+- [[Sending Primitive Types, Objects and Lists]]
 ### 18. Sendign data from UI to Controller
 
 ### 19. Using modelmap and String View
