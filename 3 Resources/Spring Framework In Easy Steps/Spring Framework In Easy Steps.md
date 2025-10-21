@@ -75,3 +75,19 @@
 - [[MVC Maven web application]]
 ### 17. Sending data from Controller to UI
 
+### 18. Sendign data from UI to Controller
+
+### 19. Using modelmap and String View
+
+### 20. Spring MVC and ORM
+
+### 21. Spring MVC And Ajax Using JQuery
+
+### 22. Spring AOP
+
+### 23. Java Configuration
+
+### 24. Java Configuration for Web Applications
+
+
+

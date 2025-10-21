@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Sending data from Controller to UI/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Framework In Easy Steps"
+              "title": "Introduction"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "6d3be72a6215db4d",
   "lastOpenFiles": [
-    "3 Resources/Spring Framework In Easy Steps/Spring MVC/MVC Maven web application.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+    "3 Resources/Spring Framework In Easy Steps/Sending data from Controller to UI/Introduction.md",
+    "3 Resources/Spring Framework In Easy Steps/Sending data from Controller to UI",
+    "3 Resources/Spring Framework In Easy Steps/Spring MVC/MVC Maven web application.md",
     "3 Resources/Spring Framework In Easy Steps/Spring MVC/Spring MVC Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Spring MVC",
     "3 Resources/Spring Cloud Fundamental/Spring Cloud Fundamentals.md",
@@ -225,13 +227,11 @@
     "3 Resources/Splunk/Busquedas Básicas/Busquedas básicas e interfáz.md",
     "3 Resources/Splunk/Busquedas Básicas/El lenguaje de búsqueda de Splunk (SPL).md",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos field y table.md",
-    "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comando stats y funciones count y dc.md",
     "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces",
     "3 Resources/Spring Framework In Easy Steps/Spring Expression Language",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL",
     "3 Resources/Splunk/Busquedas Básicas",
     "3 Resources/Splunk",
-    "3 Resources/Spring Framework In Easy Steps/Stereotype Annotations",
     "Untitled 1.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",
