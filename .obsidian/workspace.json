@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/JMeter for Performance and API Testing/Introduction/Overview on Performance Testing.md",
+                "file": "3 Resources/JMeter for Performance and API Testing/Introduction/Introduction & Usage of JMeter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview on Performance Testing"
+              "title": "Introduction & Usage of JMeter"
             }
           }
         ]
@@ -197,6 +197,7 @@
   "active": "6d3be72a6215db4d",
   "lastOpenFiles": [
     "3 Resources/JMeter for Performance and API Testing/JMeter for Performance and API Testing.md",
+    "3 Resources/JMeter for Performance and API Testing/Introduction/Introduction & Usage of JMeter.md",
     "3 Resources/JMeter for Performance and API Testing/Introduction/Overview on Performance Testing.md",
     "3 Resources/JMeter for Performance and API Testing/Introduction",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
@@ -227,7 +228,6 @@
     "4 Archive/Splunk_Queries",
     "3 Resources/Splunk/Busquedas Básicas/Utilizando Campos en las búsquedas.md",
     "3 Resources/Splunk/Busquedas Básicas/Busquedas básicas.md",
-    "3 Resources/Splunk/Busquedas Básicas/Busquedas básicas e interfáz.md",
     "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces",
     "3 Resources/Spring Framework In Easy Steps/Spring Expression Language",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL",
