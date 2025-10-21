@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/JMeter for Performance and API Testing/JMeter Elements & First JMeter test/JMeter Elements (Thread Group,Sampleres,Listeners & Configuration).md",
-                "mode": "preview",
+                "file": "3 Resources/JMeter for Performance and API Testing/JMeter for Performance and API Testing.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JMeter Elements (Thread Group,Sampleres,Listeners & Configuration)"
+              "title": "JMeter for Performance and API Testing"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "6d3be72a6215db4d",
   "lastOpenFiles": [
+    "3 Resources/JMeter for Performance and API Testing/JMeter Elements & First JMeter test/First JMeter Test.md",
     "3 Resources/JMeter for Performance and API Testing/JMeter for Performance and API Testing.md",
     "3 Resources/JMeter for Performance and API Testing/JMeter Elements & First JMeter test/JMeter Elements (Thread Group,Sampleres,Listeners & Configuration).md",
     "3 Resources/JMeter for Performance and API Testing/JMeter Elements & First JMeter test",
@@ -228,7 +229,6 @@
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Funciones List y Value.md",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos y funciones más comunes de SPL.md",
     "4 Archive/Splunk_Queries/Splunk Queries.md",
-    "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos rename y dedup.md",
     "4 Archive/Splunk_Queries",
     "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces",
     "3 Resources/Spring Framework In Easy Steps/Spring Expression Language",
