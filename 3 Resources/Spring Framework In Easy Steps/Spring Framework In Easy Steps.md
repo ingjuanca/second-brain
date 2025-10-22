@@ -79,6 +79,9 @@
 - [[Sending Primitive Types, Objects and Lists]]
 ### 18. Sendign data from UI to Controller
 
+- [[3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Introduction|Introduction]]
+- 
+
 ### 19. Using modelmap and String View
 
 ### 20. Spring MVC and ORM
