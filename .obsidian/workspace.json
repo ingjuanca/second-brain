@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Create the User Model and Registration View.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Request Parameters Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create the User Model and Registration View"
+              "title": "Request Parameters Introduction"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "6d3be72a6215db4d",
   "lastOpenFiles": [
-    "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Create the User Model and Registration View.md",
+    "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Request Parameters Introduction.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "3 Resources/Spring Framework In Easy Steps/Sending data from Controller to UI/Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller",
@@ -229,7 +230,6 @@
     "3 Resources/Spring Framework In Easy Steps/Spring JDBC/Introduction - Spring JDBC.md",
     "3 Resources/Splunk/Splunk.md",
     "3 Resources/Spring Framework In Easy Steps/Spring JDBC",
-    "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces/Using Annotations.md",
     "4 Archive/Splunk_Queries",
     "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces",
     "Untitled 1.canvas",
