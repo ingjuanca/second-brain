@@ -85,9 +85,9 @@
 - [[Using the required and defaultValue attributes]]
 ### 19. Using modelmap and String View
 
-
-
+- [[Using modelmap and String View]]
 ### 20. Spring MVC and ORM
+
 
 ### 21. Spring MVC And Ajax Using JQuery
 

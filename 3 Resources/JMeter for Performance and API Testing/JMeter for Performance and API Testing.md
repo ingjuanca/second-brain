@@ -14,6 +14,7 @@
 - [[First JMeter Test]]
 ### 4. Assertions in JMeter
 
+- [[Assertions in JMeter]]
 ### 5. Listerners in JMeter
 
 ### 6. Timers in JMeter
