@@ -157,9 +157,9 @@ Se implementa un flujo completo con:
     
 - Anotar con:
 ```java
-    @Entity
-    @Table(name="user")
-    @Id
+@Entity
+@Table(name="user")
+@Id
 ```
 
 para que Hibernate la mapee a la tabla `user`.
@@ -305,9 +305,7 @@ import com.bharath.spring.springmvcorm.user.entity.User;
 public interface UserService {
 	
 	int save(User user);
-
 	List<User> getUsers();
-	
 	User getUser(Integer id);
 }
 

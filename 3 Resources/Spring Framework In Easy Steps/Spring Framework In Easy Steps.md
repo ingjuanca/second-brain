@@ -88,7 +88,7 @@
 - [[Using modelmap and String View]]
 ### 20. Spring MVC and ORM
 
-
+- [[Spring MVC and ORM]]
 ### 21. Spring MVC And Ajax Using JQuery
 
 ### 22. Spring AOP
