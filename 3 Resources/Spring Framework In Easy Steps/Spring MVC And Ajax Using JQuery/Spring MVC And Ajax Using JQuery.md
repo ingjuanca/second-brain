@@ -150,8 +150,26 @@ En el archivo `userReg.jsp`:
 
 #### b) Detectar cambios en el campo de ID
 
-```javascript
-$(document).ready(function() {     $("#id").change(function() {         $.ajax({             url: "validateEmail",             data: { id: $("#id").val() },             success: function(response) {                 $("#errMsg").text(response);                 if (response !== "") {                     $("#id").focus();                 }             }         });     }); });
+```html
+<script>
+	$(document).ready(function() {
+		$("#id").change(function() {
+			$.ajax({
+				url : 'validateEmail',
+				data : {
+					id : $("#id").val()
+				},
+				success : function(responseText) {
+					$("#errMsg").text(responseText);
+					
+					if(responseText!=""){
+						$("#id").focus();
+					}
+				}
+			});
+		});
+	});
+</script>
 ```
 
 📘 **Explicación:**
@@ -165,7 +183,9 @@ $(document).ready(function() {     $("#id").change(function() {         $.ajax({
 
 #### c) Agregar el span de mensaje
 
-`Id: <input type="text" id="id" name="id"/> <span id="errMsg"></span>`
+```jsp
+Id: <input type="text" id="id" name="id"/> <span id="errMsg"></span>
+```
 
 ---
 

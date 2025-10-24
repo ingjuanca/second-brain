@@ -91,8 +91,7 @@
 - [[Spring MVC and ORM]]
 ### 21. Spring MVC And Ajax Using JQuery
 
-
-
+- [[Spring MVC And Ajax Using JQuery]]
 ### 22. Spring AOP
 
 ### 23. Java Configuration
