@@ -61,7 +61,10 @@ Si el tipo en la URL no coincide con el tipo declarado, Spring lanzará un **err
 
 📘 Ejemplo:
 
-`@RequestParam("id") int id`
+```java
+@RequestParam("id") 
+int id
+```
 
 Si el usuario envía `?id=abc`, el valor `"abc"` no puede convertirse a número y Spring devolverá un error 400.
 
@@ -74,13 +77,18 @@ Si el parámetro no viene en la URL, también se lanzará un error 400.
 
 📘 Ejemplo:
 
-`@RequestParam("id") int id`
+```java
+@RequestParam("id") 
+int id
+```
 
 Si la URL no tiene `id`, Spring devolverá error 400.
 
 Para evitarlo, se puede hacer opcional el parámetro:
 
-`@RequestParam(value = "id", required = false)`
+```java
+@RequestParam(value = "id", required = false)
+```
 
 ---
 
@@ -88,7 +96,10 @@ Para evitarlo, se puede hacer opcional el parámetro:
 
 Puedes definir un valor por defecto en caso de que no se proporcione ningún valor en la URL.
 
-`@RequestParam(value = "sal", defaultValue = "0.0") double salary`
+```java
+@RequestParam(value = "sal", defaultValue = "0.0") 
+double salary
+```
 
 Así, si no se especifica `sal`, Spring usará `0.0`.
 
@@ -109,7 +120,24 @@ Por ejemplo, ambas URLs son válidas:
 
 ### **a. Crear el controlador**
 
-`@Controller public class RequestParamsController {      @RequestMapping("/showData")     public ModelAndView showData(             @RequestParam("id") int id,             @RequestParam("name") String name,             @RequestParam("sal") double salary) {          System.out.println("Id: " + id);         System.out.println("Name: " + name);         System.out.println("Salary: " + salary);          ModelAndView modelAndView = new ModelAndView();         modelAndView.setViewName("userReg"); // o cualquier vista         return modelAndView;     } }`
+```java
+@Controller 
+public class RequestParamsController {      
+	@RequestMapping("/showData")     
+	public ModelAndView showData(
+		@RequestParam("id") int id, 
+		@RequestParam("name") String name, 
+		@RequestParam("sal") double salary
+		) {          
+		
+		System.out.println("Id: " + id);         
+		System.out.println("Name: " + name);         
+		System.out.println("Salary: " + salary);          
+		ModelAndView modelAndView = new ModelAndView();         
+		modelAndView.setViewName("userReg"); // o cualquier vista         
+		return modelAndView;     } 
+		}
+```
 
 📘 **Explicación:**
 

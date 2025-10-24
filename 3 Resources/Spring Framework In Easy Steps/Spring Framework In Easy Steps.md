@@ -80,9 +80,12 @@
 ### 18. Sendign data from UI to Controller
 
 - [[3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Introduction|Introduction]]
-- 
-
+- [[Create the User Model and Registration View]]
+- [[Request Parameters Introduction]]
+- [[Using the required and defaultValue attributes]]
 ### 19. Using modelmap and String View
+
+
 
 ### 20. Spring MVC and ORM
 

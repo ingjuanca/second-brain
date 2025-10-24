@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Request Parameters Introduction.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Request Parameters Introduction"
+              "title": "Spring Framework In Easy Steps"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "6d3be72a6215db4d",
   "lastOpenFiles": [
-    "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Create the User Model and Registration View.md",
+    "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Using the required and defaultValue attributes.md",
     "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Request Parameters Introduction.md",
+    "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Create the User Model and Registration View.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "3 Resources/Spring Framework In Easy Steps/Sending data from Controller to UI/Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Introduction.md",
@@ -228,7 +229,6 @@
     "3 Resources/Spring Framework In Easy Steps/Spring Core Concepts/Spring Core Concepts.md",
     "3 Resources/Spring Framework In Easy Steps/Spring JDBC/Create the DTO and DAOs Classes.md",
     "3 Resources/Spring Framework In Easy Steps/Spring JDBC/Introduction - Spring JDBC.md",
-    "3 Resources/Splunk/Splunk.md",
     "3 Resources/Spring Framework In Easy Steps/Spring JDBC",
     "4 Archive/Splunk_Queries",
     "3 Resources/Spring Framework In Easy Steps/Injecting Interfaces",
