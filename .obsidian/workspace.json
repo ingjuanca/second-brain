@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Spring Framework In Easy Steps/Spring AOP/AOP Introduction.md",
+                "file": "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AOP Introduction"
+              "title": "Spring Framework In Easy Steps"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "789a77d55c1420f9",
   "lastOpenFiles": [
-    "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring AOP/AOP Use Case.md",
     "3 Resources/Spring Framework In Easy Steps/Spring AOP/AOP Introduction.md",
+    "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "3 Resources/Spring Framework In Easy Steps/Spring AOP",
     "3 Resources/Spring Framework In Easy Steps/Spring MVC And Ajax Using JQuery/Spring MVC And Ajax Using JQuery.md",
     "3 Resources/Spring Framework In Easy Steps/Spring MVC And Ajax Using JQuery",
@@ -231,7 +232,6 @@
     "3 Resources/Spring Framework In Easy Steps/Spring ORM/Spring ORM Summary.md",
     "3 Resources/Spring Framework In Easy Steps/Spring ORM/Implement the update, delete method, find and findAll methods.md",
     "3 Resources/Spring Framework In Easy Steps/Spring ORM/Create the Spring ORM project.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring ORM/ORM Introduction.md",
     "Untitled 1.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",

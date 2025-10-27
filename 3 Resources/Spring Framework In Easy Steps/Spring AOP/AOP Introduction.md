@@ -175,13 +175,31 @@ Crear un aspecto que registre en consola cada vez que se ejecuta un método `mul
         
 2. **Crear clase de servicio:**
     
-    `public interface MathService {     int multiply(int a, int b); }`
+```java
+public interface MathService {     
+	int multiply(int a, int b); 
+}
+```
     
-    `public class MathServiceImpl implements MathService {     public int multiply(int a, int b) {         return a * b;     } }`
+```java
+public class MathServiceImpl implements MathService {     
+	public int multiply(int a, int b) {         
+		return a * b;     
+	} 
+}
+```
     
 3. **Crear aspecto (logging):**
     
-    `@Aspect public class LoggingAspect {     @Before("execution(* com.app.MathServiceImpl.multiply(..))")     public void logBefore() {         System.out.println("Método multiply() invocado");     } }`
+```java
+@Aspect 
+public class LoggingAspect {     
+	@Before("execution(* com.app.MathServiceImpl.multiply(..))")     
+	public void logBefore() {         
+		System.out.println("Método multiply() invocado");     
+	} 
+}
+```
     
 4. **Configurar Spring (`applicationContext.xml` o clase Java):**
     
@@ -193,8 +211,14 @@ Crear un aspecto que registre en consola cada vez que se ejecuta un método `mul
         
 5. **Ejecutar prueba:**
     
-    `public class Test {     public static void main(String[] args) {         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");         MathService service = context.getBean("mathService", MathService.class);         System.out.println(service.multiply(4, 5));     } }`
-    
+```java
+public class Test {     
+	public static void main(String[] args) {         
+	ApplicationContext context = new
+	ClassPathXmlApplicationContext("applicationContext.xml");         
+	MathService service = context.getBean("mathService", MathService.class);         System.out.println(service.multiply(4, 5));     } 
+}
+```
 
 ✅ Resultado en consola:
 
@@ -204,17 +228,17 @@ Crear un aspecto que registre en consola cada vez que se ejecuta un método `mul
 
 ## 🧾 **Resumen general**
 
-|Concepto|Descripción|
-|---|---|
-|**AOP**|Permite aplicar servicios externos (logging, seguridad, transacciones) sin modificar el código original.|
-|**Aspect**|Clase que contiene la lógica del servicio externo.|
-|**Advice**|Método dentro del aspecto que define la acción a ejecutar.|
-|**Pointcut**|Expresión que indica dónde aplicar el advice.|
-|**Join Point**|Unión de pointcut + advice (define qué se aplica y dónde).|
-|**Weaving**|Proceso de combinar la lógica del negocio con los aspectos.|
-|**Proxy**|Objeto final con lógica combinada (negocio + aspecto).|
-|**Spring AOP**|Implementación ligera de AOP basada en AspectJ.|
-|**Anotaciones**|`@Aspect`, `@Before`, `@After`, `@Around`, `@AfterReturning`, `@AfterThrowing`.|
+| Concepto        | Descripción                                                                                              |
+| --------------- | -------------------------------------------------------------------------------------------------------- |
+| **AOP**         | Permite aplicar servicios externos (logging, seguridad, transacciones) sin modificar el código original. |
+| **Aspect**      | Clase que contiene la lógica del servicio externo.                                                       |
+| **Advice**      | Método dentro del aspecto que define la acción a ejecutar.                                               |
+| **Pointcut**    | Expresión que indica dónde aplicar el advice.                                                            |
+| **Join Point**  | Unión de pointcut + advice (define qué se aplica y dónde).                                               |
+| **Weaving**     | Proceso de combinar la lógica del negocio con los aspectos.                                              |
+| **Proxy**       | Objeto final con lógica combinada (negocio + aspecto).                                                   |
+| **Spring AOP**  | Implementación ligera de AOP basada en AspectJ.                                                          |
+| **Anotaciones** | `@Aspect`, `@Before`, `@After`, `@Around`, `@AfterReturning`, `@AfterThrowing`.                          |
 
 ---
 

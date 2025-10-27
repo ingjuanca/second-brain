@@ -94,6 +94,9 @@
 - [[Spring MVC And Ajax Using JQuery]]
 ### 22. Spring AOP
 
+- [[AOP Introduction]]
+- [[AOP Use Case]]
+
 ### 23. Java Configuration
 
 ### 24. Java Configuration for Web Applications
