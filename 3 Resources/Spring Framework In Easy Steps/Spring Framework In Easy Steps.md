@@ -99,6 +99,7 @@
 
 ### 23. Java Configuration
 
+
 ### 24. Java Configuration for Web Applications
 
 
