@@ -3,7 +3,7 @@
 
 
 1. [[Think Like a Cloud Architect]]
-2. EC2 / Elastic Computing Cloud
+2. [[EC2 - Elastic Computing Cloud]]
 3. S3 / Simple Storage Service
 4. IAM / Identity Access Management
 5. RDS / Relational Database Services
