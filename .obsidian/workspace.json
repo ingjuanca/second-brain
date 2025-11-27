@@ -11,10 +11,14 @@
             "id": "ff317bf7728bc96b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EC2"
             }
           }
         ]
@@ -194,6 +198,7 @@
   "lastOpenFiles": [
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2 - Elastic Computing Cloud.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Region - Availability Zone - Edge Locations.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Think Like a Cloud Architect/Think Like a Cloud Architect.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Think Like a Cloud Architect/AWS Account Setup-Billing Alert.md",
@@ -227,7 +232,6 @@
     "3 Resources/Spring Framework In Easy Steps/Sending data from Controller to UI/Sending Primitive Types, Objects and Lists.md",
     "3 Resources/Spring Framework In Easy Steps/Spring MVC/MVC Maven web application.md",
     "3 Resources/JMeter for Performance and API Testing/JMeter Elements & First JMeter test/First JMeter Test.md",
-    "3 Resources/JMeter for Performance and API Testing/Jmeter Installations/How to install JMeter on Windows and Mac.md",
     "Untitled 1.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",
