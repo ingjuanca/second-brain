@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2.md",
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Running Nginx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2"
+              "title": "Running Nginx"
             }
           }
         ]
@@ -197,8 +197,11 @@
   "active": "ff317bf7728bc96b",
   "lastOpenFiles": [
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2 - Elastic Computing Cloud.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Region - Availability Zone - Edge Locations.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Running Nginx.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/SSH From Local.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Launching An EC2 Instance.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Region - Availability Zone - Edge Locations.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Think Like a Cloud Architect/Think Like a Cloud Architect.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Think Like a Cloud Architect/AWS Account Setup-Billing Alert.md",
@@ -229,9 +232,6 @@
     "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Create the User Model and Registration View.md",
     "3 Resources/Spring Framework In Easy Steps/Sending data from Controller to UI/Introduction.md",
     "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Introduction.md",
-    "3 Resources/Spring Framework In Easy Steps/Sending data from Controller to UI/Sending Primitive Types, Objects and Lists.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring MVC/MVC Maven web application.md",
-    "3 Resources/JMeter for Performance and API Testing/JMeter Elements & First JMeter test/First JMeter Test.md",
     "Untitled 1.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",
