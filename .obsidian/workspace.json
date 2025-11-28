@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Running Nginx.md",
+                "file": "2 Areas/Finanzas/Finanzas para No Financieros/Finanzas para No Financieros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Running Nginx"
+              "title": "Finanzas para No Financieros"
+            }
+          },
+          {
+            "id": "dad7c538d6f4a0f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Sección 1 - Análisis Financiero.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sección 1 - Análisis Financiero"
+            }
+          },
+          {
+            "id": "dc574200835e6d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Qué son los Estados Financieros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qué son los Estados Financieros"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,10 +223,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff317bf7728bc96b",
+  "active": "dc574200835e6d56",
   "lastOpenFiles": [
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2 - Elastic Computing Cloud.md",
+    "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Sección 1 - Análisis Financiero.md",
+    "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Qué son los Estados Financieros.md",
+    "2 Areas/Finanzas/Finanzas para No Financieros/Finanzas para No Financieros.md",
+    "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero",
+    "2 Areas/Finanzas/Finanzas para No Financieros",
+    "2 Areas/Finanzas",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Running Nginx.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2 - Elastic Computing Cloud.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/SSH From Local.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Launching An EC2 Instance.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2.md",
@@ -213,9 +248,6 @@
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Architecting In AWS Cloud-ECS with Fargate",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Spring Boot-Application Development",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Troubleshooting & Architecture Scenarios",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/VPC-Virtual Private Cloud",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/CloudFront-Route 53",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/ALB-Application Load Balancer",
     "3 Resources/Spring Framework In Easy Steps/Java Configuration/Java Configuration.md",
     "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
     "4 Archive/Splunk_Queries/Splunk Queries.md",
@@ -229,9 +261,6 @@
     "3 Resources/JMeter for Performance and API Testing/Assertions in JMeter/Assertions in JMeter.md",
     "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Using the required and defaultValue attributes.md",
     "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Request Parameters Introduction.md",
-    "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Create the User Model and Registration View.md",
-    "3 Resources/Spring Framework In Easy Steps/Sending data from Controller to UI/Introduction.md",
-    "3 Resources/Spring Framework In Easy Steps/Sendign data from UI to Controller/Introduction.md",
     "Untitled 1.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",
