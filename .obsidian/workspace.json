@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Balance General.md",
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2 - Elastic Computing Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Balance General"
+              "title": "EC2 - Elastic Computing Cloud"
             }
           }
         ],
@@ -225,8 +225,12 @@
   },
   "active": "dc574200835e6d56",
   "lastOpenFiles": [
-    "2 Areas/Finanzas/Finanzas para No Financieros/Aclaraciones/Diferencia entre Balance General y Análisis de resultados.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Creating AMI.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Creating AMI Commands.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2 - Elastic Computing Cloud.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Running Nginx.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Balance General.md",
+    "2 Areas/Finanzas/Finanzas para No Financieros/Aclaraciones/Diferencia entre Balance General y Análisis de resultados.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Qué son los Estados Financieros.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Aclaraciones",
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Sección 1 - Análisis Financiero.md",
@@ -234,8 +238,6 @@
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero",
     "2 Areas/Finanzas/Finanzas para No Financieros",
     "2 Areas/Finanzas",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Running Nginx.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2 - Elastic Computing Cloud.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/SSH From Local.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Launching An EC2 Instance.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2.md",
@@ -259,8 +261,6 @@
     "3 Resources/Spring Framework In Easy Steps/Using modelmap and String View/Using modelmap and String View.md",
     "3 Resources/JMeter for Performance and API Testing/JMeter for Performance and API Testing.md",
     "3 Resources/JMeter for Performance and API Testing/JMeter Elements & First JMeter test/JMeter Elements (Thread Group,Sampleres,Listeners & Configuration).md",
-    "3 Resources/Spring Framework In Easy Steps/Spring MVC and ORM/Spring MVC and ORM.md",
-    "3 Resources/JMeter for Performance and API Testing/Assertions in JMeter/Assertions in JMeter.md",
     "Untitled 1.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",
