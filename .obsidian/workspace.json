@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Sección 1 - Análisis Financiero.md",
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Data Breaches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sección 1 - Análisis Financiero"
-            }
-          },
-          {
-            "id": "dc574200835e6d56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2 - Elastic Computing Cloud.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EC2 - Elastic Computing Cloud"
+              "title": "Data Breaches"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,45 +209,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc574200835e6d56",
+  "active": "dad7c538d6f4a0f0",
   "lastOpenFiles": [
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 - Simple Storage Service.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Data Breaches.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Introduction To S3.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
+    "2 Areas/Finanzas/Finanzas para No Financieros/Finanzas para No Financieros.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2 - Elastic Computing Cloud.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Resource - Course Summary.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Summary.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/User Data.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Security Groups - Part 2.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Self Referencing Security Groups.md",
+    "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Sección 1 - Análisis Financiero.md",
+    "4 Archive/Splunk_Queries/Splunk Queries.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "PARA.md",
+    "3 Resources/Splunk/Busquedas Básicas/Busquedas básicas.md",
+    "3 Resources/Splunk/Busquedas Básicas/Busquedas básicas e interfáz.md",
+    "3 Resources/Splunk/Busquedas Básicas/El lenguaje de búsqueda de Splunk (SPL).md",
+    "3 Resources/Splunk/Busquedas Básicas/Mejores prácticas para optimizar las búsquedas.md",
+    "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos y funciones más comunes de SPL.md",
+    "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos rename y dedup.md",
+    "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comandos sort, top y rare.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Security Groups - Part 1.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Docker Command For Postgres.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Creating AMI.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Creating AMI Commands.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2 - Elastic Computing Cloud.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Running Nginx.md",
-    "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Balance General.md",
-    "2 Areas/Finanzas/Finanzas para No Financieros/Aclaraciones/Diferencia entre Balance General y Análisis de resultados.md",
-    "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Qué son los Estados Financieros.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Aclaraciones",
-    "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Sección 1 - Análisis Financiero.md",
-    "2 Areas/Finanzas/Finanzas para No Financieros/Finanzas para No Financieros.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero",
     "2 Areas/Finanzas/Finanzas para No Financieros",
     "2 Areas/Finanzas",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/SSH From Local.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Launching An EC2 Instance.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/EC2.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Region - Availability Zone - Edge Locations.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Think Like a Cloud Architect/Think Like a Cloud Architect.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Think Like a Cloud Architect/AWS Account Setup-Billing Alert.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Think Like a Cloud Architect/Cloud Architect - The Three Essential Perspectives.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Resource Cleanup",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture Interview",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/CI-CD",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Auto Scaling",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Architecting In AWS Cloud-ECS with Fargate",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/Spring Boot-Application Development",
-    "3 Resources/Spring Framework In Easy Steps/Java Configuration/Java Configuration.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring Framework In Easy Steps.md",
-    "4 Archive/Splunk_Queries/Splunk Queries.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring AOP/AOP Use Case.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring AOP/AOP Introduction.md",
-    "3 Resources/Spring Framework In Easy Steps/Spring MVC And Ajax Using JQuery/Spring MVC And Ajax Using JQuery.md",
-    "3 Resources/Spring Framework In Easy Steps/Using modelmap and String View/Using modelmap and String View.md",
-    "3 Resources/JMeter for Performance and API Testing/JMeter for Performance and API Testing.md",
-    "3 Resources/JMeter for Performance and API Testing/JMeter Elements & First JMeter test/JMeter Elements (Thread Group,Sampleres,Listeners & Configuration).md",
-    "Untitled 1.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
     "4 Archive/images/Pasted image 20250811165911.png",
     "4 Archive/images/Pasted image 20250811165946.png",
@@ -271,7 +258,6 @@
     "4 Archive/images/Pasted image 20250728130103.png",
     "4 Archive/images/Pasted image 20250728125738.png",
     "4 Archive/images/Pasted image 20250728124614.png",
-    "4 Archive/images/Pasted image 20250728124106.png",
-    "Untitled.canvas"
+    "4 Archive/images/Pasted image 20250728124106.png"
   ]
 }
