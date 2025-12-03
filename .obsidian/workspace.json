@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Data Breaches.md",
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 - Simple Storage Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Breaches"
+              "title": "S3 - Simple Storage Service"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "dad7c538d6f4a0f0",
   "lastOpenFiles": [
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Creating S3 Bucket.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 - Simple Storage Service.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Data Breaches.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Introduction To S3.md",
@@ -238,7 +239,6 @@
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Security Groups - Part 1.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Docker Command For Postgres.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Creating AMI.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Creating AMI Commands.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Aclaraciones",
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero",
     "2 Areas/Finanzas/Finanzas para No Financieros",
