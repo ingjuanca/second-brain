@@ -13,5 +13,5 @@
 10. [[Security Groups - Part 2]]
 11. [[Self Referencing Security Groups]]
 12. [[User Data]]
-13. [[Summary]]
+13. [[3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Summary]]
 14. [[Resource - Course Summary]]

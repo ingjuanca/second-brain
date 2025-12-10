@@ -7,4 +7,6 @@
 4. [[Resource - S3 Bucket Policy]]
 5. [[Bucket Policy - Part 1]]
 6. [[Bucket Policy - Part 2]]
-7. 
+7. [[Bucket Configuration - Encryption]]
+8. [[S3 Usecases]]
+9. 
