@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Summary.md",
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 - Simple Storage Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "S3 - Simple Storage Service"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "dad7c538d6f4a0f0",
   "lastOpenFiles": [
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 - Simple Storage Service.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Summary.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 - Simple Storage Service.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 Usecases.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Bucket Policy - Part 2.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Bucket Configuration - Encryption.md",

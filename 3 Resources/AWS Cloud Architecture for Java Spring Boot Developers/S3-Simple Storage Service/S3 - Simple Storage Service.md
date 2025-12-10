@@ -9,4 +9,4 @@
 6. [[Bucket Policy - Part 2]]
 7. [[Bucket Configuration - Encryption]]
 8. [[S3 Usecases]]
-9. 
+9. [[3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Summary|Summary]]
