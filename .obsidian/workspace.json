@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Sección 1 - Análisis Financiero.md",
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/RDS-Relational Database Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sección 1 - Análisis Financiero"
+              "title": "RDS-Relational Database Services"
             }
           }
         ]
@@ -196,13 +196,17 @@
   },
   "active": "ff317bf7728bc96b",
   "lastOpenFiles": [
-    "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Estado de Resultados.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/RDS Demo - Part 1.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/RDS-Relational Database Services.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/Creating RDS DB Instance.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/Introduction.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 - Simple Storage Service.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Sección 1 - Análisis Financiero.md",
+    "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Estado de Resultados.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Qué son los Estados Financieros.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Balance General.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Finanzas para No Financieros.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 - Simple Storage Service.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Summary.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 Usecases.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Bucket Policy - Part 2.md",
@@ -218,10 +222,6 @@
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Introduction To S3.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Resource - Course Summary.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Summary.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/User Data.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Security Groups - Part 2.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/EC2-Elastic Computing Cloud/Self Referencing Security Groups.md",
-    "Welcome.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "2 Areas/Finanzas/Finanzas para No Financieros/Aclaraciones",
