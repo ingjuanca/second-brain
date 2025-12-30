@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/RDS-Relational Database Services.md",
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RDS-Relational Database Services"
+              "title": "AWS Cloud Architecture for Java Spring Boot Developers"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "ff317bf7728bc96b",
   "lastOpenFiles": [
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/RDS SQL Commands.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/RDS-Relational Database Services.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/RDS SQL Commands.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/RDS Demo - Part 2.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/RDS Demo - Part 1.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/Creating RDS DB Instance.md",
@@ -208,7 +209,6 @@
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Qué son los Estados Financieros.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Balance General.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Finanzas para No Financieros.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Summary.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 Usecases.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/Bucket Policy - Part 2.md",
