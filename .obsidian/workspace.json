@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/IAM - Identity Access Management.md",
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IAM - Identity Access Management"
+              "title": "AWS Cloud Architecture for Java Spring Boot Developers"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "ff317bf7728bc96b",
   "lastOpenFiles": [
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/IAM - Identity Access Management.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Creating An User.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Introduction To IAM.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/RDS-Relational Database Services/RDS-Relational Database Services.md",
