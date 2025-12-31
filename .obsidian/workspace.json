@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Access Key Best Practices.md",
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/IAM - Identity Access Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Access Key Best Practices"
+              "title": "IAM - Identity Access Management"
             }
           }
         ]
@@ -196,10 +196,10 @@
   },
   "active": "ff317bf7728bc96b",
   "lastOpenFiles": [
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Root Account Best Practices.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/IAM - Identity Access Management.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/How SDK Works.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Untitled.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Access Key Best Practices.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/How SDK Works.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Access Keys For Local Development.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/S3 SDK Demo.md",
     "0 Inbox/2025-12-31.md",
