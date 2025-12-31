@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Summary.md",
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "AWS Cloud Architecture for Java Spring Boot Developers"
             }
           }
         ]
@@ -197,6 +197,7 @@
   "active": "ff317bf7728bc96b",
   "lastOpenFiles": [
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/IAM - Identity Access Management.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Summary.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Root Account Best Practices.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Access Key Best Practices.md",
@@ -209,7 +210,6 @@
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/IAM Role.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Local Development.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/AWS CLI.md",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/AWS Cloud Architecture for Java Spring Boot Developers.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/User Groups.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Creating An User.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Introduction To IAM.md",

@@ -12,4 +12,4 @@
 9. [[How SDK Works]]
 10. [[Access Key Best Practices]]
 11. [[Root Account Best Practices]]
-12. 
+12. [[3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Summary|Summary]] 
