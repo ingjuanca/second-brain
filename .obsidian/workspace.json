@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/S3 SDK Demo.md",
+                "file": "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Access Key Best Practices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S3 SDK Demo"
+              "title": "Access Key Best Practices"
             }
           }
         ]
@@ -197,11 +197,14 @@
   "active": "ff317bf7728bc96b",
   "lastOpenFiles": [
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/IAM - Identity Access Management.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/How SDK Works.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Untitled.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Access Key Best Practices.md",
+    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Access Keys For Local Development.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/S3 SDK Demo.md",
     "0 Inbox/2025-12-31.md",
     "0 Inbox/Untitled 2.base",
     "0 Inbox/Untitled 1.base",
-    "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Access Keys For Local Development.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/IAM Role.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/Local Development.md",
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/IAM-Identity Access Management/AWS CLI.md",
@@ -221,9 +224,6 @@
     "3 Resources/AWS Cloud Architecture for Java Spring Boot Developers/S3-Simple Storage Service/S3 - Simple Storage Service.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Sección 1 - Análisis Financiero.md",
     "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Estado de Resultados.md",
-    "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Qué son los Estados Financieros.md",
-    "2 Areas/Finanzas/Finanzas para No Financieros/Sección 1 - Análisis Financiero/Balance General.md",
-    "2 Areas/Finanzas/Finanzas para No Financieros/Finanzas para No Financieros.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "2 Areas/Finanzas/Finanzas para No Financieros/Aclaraciones",
