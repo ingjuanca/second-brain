@@ -1,14 +1,6 @@
 
 ---
 
-Perfecto. A continuación tienes **la traducción completa al español** del documento que compartiste y luego un **resumen completo, claro y profesional**, centrado en **IAM Roles, EC2 y acceso seguro a S3 sin credenciales**.  
-
----
-
-# ✅ **TRADUCCIÓN COMPLETA AL ESPAÑOL**
-
-## IAM Role
-
 En esta lección vamos a hablar sobre **roles**.
 
 El escenario es el siguiente:  
