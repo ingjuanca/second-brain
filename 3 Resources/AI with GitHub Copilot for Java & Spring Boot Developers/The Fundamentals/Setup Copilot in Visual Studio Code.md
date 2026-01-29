@@ -35,15 +35,3 @@ Luego, el documento destaca que actualmente **GitHub Copilot y GitHub Copilot Ch
 Después de instalar las extensiones, puede ser necesario **reiniciar el IDE**. Al abrirlo nuevamente, Visual Studio Code solicitará iniciar sesión con una cuenta de GitHub.
 
 Finalmente, tras completar el inicio de sesión, el entorno quedará listo para usar GitHub Copilot y Copilot Chat.
-
----
-
-Si quieres, cuando termines de compartir todos los documentos, puedo ayudarte a:
-
-- Crear un **documento único y estructurado** tipo manual.
-    
-- Hacer un **resumen general de todo el material**.
-    
-- Armar una **guía práctica** para tu equipo o para capacitación.
-    
-- O convertirlo en un **checklist técnico paso a paso** para onboarding.

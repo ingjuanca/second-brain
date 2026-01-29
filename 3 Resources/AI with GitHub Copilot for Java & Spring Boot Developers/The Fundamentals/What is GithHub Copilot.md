@@ -63,14 +63,3 @@ Además, el documento introduce **Copilot Chat**, una funcionalidad similar a Ch
 
 En conjunto, GitHub Copilot se presenta como una herramienta que **aumenta la productividad del desarrollador**, reduce el tiempo de escritura de código, facilita el aprendizaje y mejora la comprensión de sistemas existentes.
 
----
-
-Si quieres, puedo:
-
-- Convertir esto en un **resumen ejecutivo**.
-    
-- Hacer una versión **ultra resumida** para estudio rápido.
-    
-- Extraer **puntos clave para una presentación**.
-    
-- O adaptarlo a un lenguaje más **técnico, académico o corporativo**.

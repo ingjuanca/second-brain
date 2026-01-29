@@ -1,49 +1,65 @@
 
 ---
 
-En esta lección te mostraré cómo configurar GitHub Copilot en Visual Studio Code.
+En esta lección te mostraré las extensiones de Java y Spring Boot para Visual Studio Code que deberías instalar.
 
-Para hacerlo, necesitas tener una suscripción a GitHub Copilot.
+Abre Visual Studio Code.
 
-Inicia sesión en github.com, ve a tu perfil, haz clic en Copilot y desde allí puedes obtener una suscripción individual.
+Haz clic en la sección de extensiones en el panel izquierdo.
 
-Si no cuentas con una suscripción Enterprise proporcionada por tu empresa, el primer mes de la suscripción individual es gratuito.
+Busca “Java”.
 
-Tendrás acceso gratuito, lo cual es suficiente para que puedas aprender y dominar GitHub Copilot.
+La primera y más importante extensión es **Language Support for Java™ by Red Hat**.
 
-GitHub Copilot y GitHub Copilot Chat son **dos extensiones separadas**.  
-Con suerte, en el futuro ambas estarán unificadas en una sola extensión.
+También encontrarás el **Extension Pack for Java**, que incluye varias extensiones necesarias (muchas de ellas desarrolladas por Microsoft).
 
-Selecciona GitHub Copilot Chat e instala también esa extensión.
+De manera similar, busca “Spring”.
 
-Una vez instaladas, si es necesario, reinicia el IDE.
+Verás extensiones como **Spring Initializr Java Support**, **Spring Boot Dashboard** y **Spring Boot Tools**, que son necesarias para trabajar con proyectos Spring Boot.
 
-El sistema te pedirá que inicies sesión en tu cuenta de GitHub.
+Estas extensiones son suficientes para comenzar:
 
-Ingresa tus credenciales de GitHub y con eso quedará todo listo.
+- Soporte de Java
+    
+- Spring Initializr
+    
+- Spring Boot Dashboard
+    
+- Spring Boot Tools
+    
 
 ---
 
 # ✅ **Resumen muy completo del documento**
 
-El documento describe el **proceso para instalar y configurar GitHub Copilot en Visual Studio Code**.
+El documento explica qué **extensiones se deben instalar en Visual Studio Code para desarrollar en Java y Spring Boot**.
 
-Primero, aclara que es obligatorio contar con una **suscripción a GitHub Copilot**, la cual se puede adquirir desde el perfil de GitHub. Si el usuario no dispone de una suscripción Enterprise, puede acceder a un **mes de prueba gratuito** con la suscripción individual.
+Primero, se indica que el usuario debe abrir Visual Studio Code y acceder al panel de extensiones. Allí debe buscar “Java” e instalar principalmente **Language Support for Java by Red Hat**, que proporciona el soporte base para desarrollo en Java. También se recomienda el **Extension Pack for Java**, que agrupa varias extensiones esenciales creadas principalmente por Microsoft.
 
-Luego, se explica que existen actualmente **dos extensiones distintas**: una para GitHub Copilot y otra para GitHub Copilot Chat, y que ambas deben instalarse desde el marketplace de Visual Studio Code.
+Luego, se sugiere buscar “Spring” para instalar las extensiones necesarias para trabajar con Spring Boot, específicamente:
 
-Después de la instalación, puede ser necesario **reiniciar el IDE**. Al volver a abrirlo, el sistema solicitará iniciar sesión con la cuenta de GitHub.
+- Spring Initializr Java Support
+    
+- Spring Boot Dashboard
+    
+- Spring Boot Tools
+    
 
-Finalmente, tras completar el login, el entorno queda completamente configurado para usar tanto Copilot como Copilot Chat.
+Estas herramientas permiten crear proyectos, administrarlos y trabajar cómodamente con aplicaciones Spring Boot dentro de Visual Studio Code.
+
+El documento concluye que con estas extensiones es suficiente para comenzar a desarrollar proyectos Java y Spring Boot en VS Code.
 
 ---
 
-📌 **Nota importante:** Este documento es muy similar al anterior que enviaste. Si estás recopilando material para un solo manual o resumen general, cuando termines de enviar todos, puedo ayudarte a:
+Si quieres, cuando termines de enviar todos los documentos, puedo ayudarte a **construir un manual completo**, por ejemplo:
 
-- Unificar todo en un **documento profesional y bien estructurado**
+- Instalación del entorno
     
-- Crear un **resumen maestro**
+- Configuración de Copilot
     
-- Armar una **guía paso a paso** para capacitación
+- Configuración de Java y Spring
     
-- O convertirlo en material tipo **handbook interno para developers**.
+- Uso, ventajas y limitaciones de Copilot
+    
+
+Ideal como **guía de onboarding o capacitación técnica**.
