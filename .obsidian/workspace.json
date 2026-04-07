@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AI Fundamentals for Tech Globers/Agentic AI Systems 2026/Agentic AI Systems 2026.md",
-                "mode": "preview",
+                "file": "3 Resources/AI Fundamentals for Tech Globers/AI Pods Overview/AI Pods Overview.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agentic AI Systems 2026"
+              "title": "AI Pods Overview"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "d273523971eaa3fb",
   "lastOpenFiles": [
-    "3 Resources/AI Fundamentals for Tech Globers/AI Fundamentals for Tech Globers.md",
     "3 Resources/AI Fundamentals for Tech Globers/Agentic AI Systems 2026/Agentic AI Systems 2026.md",
+    "3 Resources/AI Fundamentals for Tech Globers/AI Pods Overview/AI Pods Overview.md",
+    "3 Resources/AI Fundamentals for Tech Globers/AI Pods Overview",
+    "3 Resources/AI Fundamentals for Tech Globers/AI Fundamentals for Tech Globers.md",
     "3 Resources/AI Fundamentals for Tech Globers/Untitled 1.md",
     "3 Resources/AI Fundamentals for Tech Globers",
     "3 Resources/AI Fundamentals for Tech Globers/AI Fundamentals/Day-to-day playbook.md",
@@ -227,11 +229,9 @@
     "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Create a React Frontend/Create a React Frontend.md",
     "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Flight reservation project",
     "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Create a Spring Boot REST API/Create a Spring Boot REST API.md",
-    "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Create a React Frontend",
     "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Work with Java/Work with Java.md",
     "4 Archive/Stop Sales ACME Information.md",
     "3 Resources/Splunk/Busquedas Básicas/Mejores prácticas para optimizar las búsquedas.md",
-    "3 Resources/Splunk/Busquedas Básicas/Busquedas básicas e interfáz.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
