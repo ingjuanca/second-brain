@@ -21,3 +21,5 @@
 
 # # Intro to AI Pods Operating & Commercial Model
 
+1. [[The AI Pods Operating Model - How We Work]]
+2. 
