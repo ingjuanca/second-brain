@@ -18,3 +18,6 @@
 
 1. [[AI Pods Overview]]
 2. [[What is an AI Pod?]]
+
+# # Intro to AI Pods Operating & Commercial Model
+
