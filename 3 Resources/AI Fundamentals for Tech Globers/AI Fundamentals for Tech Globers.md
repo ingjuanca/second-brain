@@ -22,4 +22,5 @@
 # # Intro to AI Pods Operating & Commercial Model
 
 1. [[The AI Pods Operating Model - How We Work]]
-2. 
+2. [[Welcome to AIPOD's framework 2.0]]
+3. 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AI Fundamentals for Tech Globers/Intro to AI Pods Operating & Commercial Model/Welcome to AIPOD's framework 2.0.md",
-                "mode": "preview",
+                "file": "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise A - Unlocking The Golden Path to AI Adoption/Globant Enterprise AI - Unlocking The Golden Path to AI Adoption.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome to AIPOD's framework 2.0"
+              "title": "Globant Enterprise AI - Unlocking The Golden Path to AI Adoption"
             }
           }
         ]
@@ -196,10 +196,15 @@
   },
   "active": "d273523971eaa3fb",
   "lastOpenFiles": [
+    "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise AI - Architecture and Platform Overview/Globant Enterprise AI - Architecture and Platform Overview.md",
+    "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise A - Unlocking The Golden Path to AI Adoption/Globant Enterprise AI - Unlocking The Golden Path to AI Adoption.md",
+    "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise A - Unlocking The Golden Path to AI Adoption",
+    "3 Resources/AI Fundamentals for Tech Globers/Intro to AI Pods Operating & Commercial Model/The AIP Pod's commercial model and metrics..md",
+    "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise AI - Architecture and Platform Overview",
+    "3 Resources/AI Fundamentals for Tech Globers/AI Fundamentals for Tech Globers.md",
+    "3 Resources/AI Fundamentals for Tech Globers/Intro to AI Pods Operating & Commercial Model/Welcome to AIPOD's framework 2.0.md",
     "4 Archive/images/Pasted image 20260408151156.png",
     "3 Resources/AI Fundamentals for Tech Globers/Intro to AI Pods Operating & Commercial Model/The AI Pods Operating Model - How We Work.md",
-    "3 Resources/AI Fundamentals for Tech Globers/Intro to AI Pods Operating & Commercial Model/Welcome to AIPOD's framework 2.0.md",
-    "3 Resources/AI Fundamentals for Tech Globers/AI Fundamentals for Tech Globers.md",
     "3 Resources/AI Fundamentals for Tech Globers/Intro to AI Pods Operating & Commercial Model",
     "3 Resources/AI Fundamentals for Tech Globers/AI Pods Overview/AI Pods Overview.md",
     "3 Resources/AI Fundamentals for Tech Globers/AI Pods Overview/What is an AI Pod?.md",
@@ -229,10 +234,6 @@
     "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Dockeirze the App/Dockeirze the application.md",
     "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Checking APP Using Angular/Checking app using Angular.md",
     "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Dockeirze the App",
-    "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Flight reservation project/Flight reservation project.md",
-    "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Checking APP Using Angular/Untitled",
-    "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Checking APP Using Angular",
-    "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Create a React Frontend/Create a React Frontend.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
@@ -242,7 +243,6 @@
     "4 Archive/images/Pasted image 20250811161152.png",
     "4 Archive/images/Pasted image 20250811153211.png",
     "4 Archive/images/Pasted image 20250728130103.png",
-    "4 Archive/images/Pasted image 20250728125738.png",
-    "4 Archive/images/Pasted image 20250728124614.png"
+    "4 Archive/images/Pasted image 20250728125738.png"
   ]
 }
