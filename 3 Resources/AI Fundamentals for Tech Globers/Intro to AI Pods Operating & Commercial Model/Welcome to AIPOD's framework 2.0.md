@@ -13,6 +13,8 @@ A medida que se crean los artefactos, el trabajo pasa al **Plano de Supervisión
 
 La IA ejecuta, los humanos validan y el sistema aprende. Así entregamos capacidad predecible.
 
+![[Pasted image 20260408151156.png]]
+
 ---
 
 ## Ideas más Relevantes
