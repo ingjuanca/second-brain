@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AI Fundamentals for Tech Globers/AI Pods Overview/What is an AI Pod?.md",
-                "mode": "source",
+                "file": "3 Resources/AI Fundamentals for Tech Globers/AI Pods Overview/AI Pods Overview.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is an AI Pod?"
+              "title": "AI Pods Overview"
             }
           }
         ]
@@ -194,14 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97e248fc6fac513e",
+  "active": "d273523971eaa3fb",
   "lastOpenFiles": [
+    "3 Resources/AI Fundamentals for Tech Globers/AI Fundamentals for Tech Globers.md",
+    "3 Resources/AI Fundamentals for Tech Globers/AI Pods Overview/What is an AI Pod?.md",
     "4 Archive/images/Pasted image 20260407080734.png",
     "3 Resources/AI Fundamentals for Tech Globers/AI Pods Overview/AI Pods Overview.md",
-    "3 Resources/AI Fundamentals for Tech Globers/AI Pods Overview/What is an AI Pod?.md",
     "3 Resources/AI Fundamentals for Tech Globers/Agentic AI Systems 2026/Agentic AI Systems 2026.md",
     "3 Resources/AI Fundamentals for Tech Globers/AI Pods Overview",
-    "3 Resources/AI Fundamentals for Tech Globers/AI Fundamentals for Tech Globers.md",
     "3 Resources/AI Fundamentals for Tech Globers/Untitled 1.md",
     "3 Resources/AI Fundamentals for Tech Globers",
     "3 Resources/AI Fundamentals for Tech Globers/AI Fundamentals/Day-to-day playbook.md",
@@ -242,7 +242,6 @@
     "4 Archive/images/Pasted image 20250811153211.png",
     "4 Archive/images/Pasted image 20250728130103.png",
     "4 Archive/images/Pasted image 20250728125738.png",
-    "4 Archive/images/Pasted image 20250728124614.png",
-    "4 Archive/images/Pasted image 20250728124106.png"
+    "4 Archive/images/Pasted image 20250728124614.png"
   ]
 }
