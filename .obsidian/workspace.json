@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbd04d6620e3c90a",
+        "id": "d3ea3c7feebc17a3",
         "type": "tabs",
         "children": [
           {
-            "id": "d273523971eaa3fb",
+            "id": "0657f85775491707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise A - Unlocking The Golden Path to AI Adoption/Globant Enterprise AI - Unlocking The Golden Path to AI Adoption.md",
+                "file": "3 Resources/AI Fundamentals for Tech Globers/AI Fundamentals for Tech Globers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Globant Enterprise AI - Unlocking The Golden Path to AI Adoption"
+              "title": "AI Fundamentals for Tech Globers"
             }
           }
         ]
@@ -194,14 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d273523971eaa3fb",
+  "active": "0657f85775491707",
   "lastOpenFiles": [
     "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise AI - Architecture and Platform Overview/Globant Enterprise AI - Architecture and Platform Overview.md",
-    "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise A - Unlocking The Golden Path to AI Adoption/Globant Enterprise AI - Unlocking The Golden Path to AI Adoption.md",
-    "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise A - Unlocking The Golden Path to AI Adoption",
-    "3 Resources/AI Fundamentals for Tech Globers/Intro to AI Pods Operating & Commercial Model/The AIP Pod's commercial model and metrics..md",
-    "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise AI - Architecture and Platform Overview",
     "3 Resources/AI Fundamentals for Tech Globers/AI Fundamentals for Tech Globers.md",
+    "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise A - Unlocking The Golden Path to AI Adoption/Globant Enterprise AI - Unlocking The Golden Path to AI Adoption.md",
+    "3 Resources/AI Fundamentals for Tech Globers/Intro to AI Pods Operating & Commercial Model/The AIP Pod's commercial model and metrics..md",
+    "3 Resources/AI Fundamentals for Tech Globers/Untitled",
+    "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise A - Unlocking The Golden Path to AI Adoption",
+    "3 Resources/AI Fundamentals for Tech Globers/Globant Enterprise AI - Architecture and Platform Overview",
     "3 Resources/AI Fundamentals for Tech Globers/Intro to AI Pods Operating & Commercial Model/Welcome to AIPOD's framework 2.0.md",
     "4 Archive/images/Pasted image 20260408151156.png",
     "3 Resources/AI Fundamentals for Tech Globers/Intro to AI Pods Operating & Commercial Model/The AI Pods Operating Model - How We Work.md",
@@ -232,8 +233,6 @@
     "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/The Fundamentals/Limitations.md",
     "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/The Fundamentals/What is GithHub Copilot.md",
     "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Dockeirze the App/Dockeirze the application.md",
-    "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Checking APP Using Angular/Checking app using Angular.md",
-    "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/Dockeirze the App",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "4 Archive/images/Pasted image 20250811170253.png",
