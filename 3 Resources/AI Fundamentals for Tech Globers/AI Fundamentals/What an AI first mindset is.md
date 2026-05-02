@@ -1,19 +1,13 @@
 
 ---
 
-Aquí tienes la traducción al español de las notas y el resumen de las ideas clave, basándome en el documento proporcionado.
-
----
-
-## Traducción de las Notas
-
-**¿Qué es una mentalidad de "AI First" (Primero la IA)?** Tener una mentalidad de "AI First" no se trata simplemente de añadir un chatbot al mismo trabajo que ya realizas. Aunque es intuitivo intentar hacer lo mismo de siempre pero con agentes de IA, ese no es el objetivo. El propósito es crear una nueva forma de trabajar que te prepare para tareas que aún no podemos predecir.
+**¿Qué es una mentalidad de "AI First" (Primero la IA)?** ==Tener una mentalidad de "AI First" no se trata simplemente de añadir un chatbot al mismo trabajo que ya realizas==. Aunque es intuitivo intentar hacer lo mismo de siempre pero con agentes de IA, ese no es el objetivo. ==El propósito es crear una nueva forma de trabajar que te prepare para tareas que aún no podemos predecir==.
 
 ### Tres Conceptos Prácticos
 
-1. **Los agentes no son solo "prompts":** Un sistema agéntico integra múltiples capacidades como planificación, uso de herramientas, memoria, gestión del conocimiento, interacción y aprendizaje para una ejecución autónoma. Los prompts se siguen usando, pero se dirigen más a definir qué quieres lograr y cómo saber si está bien hecho, en lugar de enfocarse en el proceso de la tarea.
+1. **Los agentes no son solo "prompts":** ==Un sistema agéntico integra múltiples capacidades como planificación, uso de herramientas, memoria, gestión del conocimiento, interacción y aprendizaje para una ejecución autónoma==. ==Los prompts== se siguen usando, pero ==se dirigen más a definir qué quieres lograr y cómo saber si está bien hecho, en lugar de enfocarse en el proceso de la tarea==.
     
-2. **Tu trabajo sube de nivel en la "escala de abstracción":** En un mundo de agentes, tu valor proviene de definir el **qué** y el **porqué**, establecer límites (guardrails) y asegurar la calidad. Se pasa de equipos que ejecutan a sistemas que ejecutan.
+2. **Tu trabajo sube de nivel en la "escala de abstracción":** ==En un mundo de agentes, tu valor proviene de definir el **qué** y el **porqué**, establecer límites (guardrails) y asegurar la calidad. Se pasa de equipos que ejecutan a sistemas que ejecutan.==
     
 3. **Eres responsable del producto de tus agentes:** No confíes ciegamente en los resultados. La regla es "confía pero verifica", ya que tú eres el responsable de lo que entregas y compartes. Debes aprender qué y cómo verificar en cada paso para no convertirte en un cuello de botella.
     
