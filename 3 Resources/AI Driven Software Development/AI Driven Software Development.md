@@ -4,6 +4,7 @@
 # 1. AI Literacy Foundations
 
 1. [[AI Literacy Foundations]]
+2. [[Introduction to Large Language Models (LLMs)]]
 
 # 2. AI-Assisted Development Foundations
 
