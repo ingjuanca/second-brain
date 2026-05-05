@@ -19,13 +19,13 @@
 1. [[AI Pods Overview]]
 2. [[What is an AI Pod?]]
 
-# # Intro to AI Pods Operating & Commercial Model
+# Intro to AI Pods Operating & Commercial Model
 
 1. [[The AI Pods Operating Model - How We Work]]
 2. [[Welcome to AIPOD's framework 2.0]]
 3. [[The AIP Pod's commercial model and metrics.]]
 
-# # Globant Enterprise AI: Architecture and Platform Overview
+# Globant Enterprise AI: Architecture and Platform Overview
 
 1. [[Globant Enterprise AI - Unlocking The Golden Path to AI Adoption]]
 
