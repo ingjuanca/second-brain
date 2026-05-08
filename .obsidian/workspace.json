@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Archive/Splunk_Queries/Splunk Queries.md",
+                "file": "3 Resources/JMeter for Performance and API Testing/Jmeter Installations/How to install JMeter on Windows and Mac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Splunk Queries"
+              "title": "How to install JMeter on Windows and Mac"
             }
           }
         ],
@@ -239,6 +239,7 @@
   },
   "active": "1da95f4066febc0f",
   "lastOpenFiles": [
+    "4 Archive/Splunk_Queries/Splunk Queries.md",
     "3 Resources/AI Driven Software Development/AI-Assisted Development Foundations/AI-Assisted Development Foundations.md",
     "3 Resources/AI Driven Software Development/AI Driven Software Development.md",
     "3 Resources/AI Driven Software Development/AI-Assisted Development Foundations/Adding context for smarter aI responses.md",
@@ -273,7 +274,6 @@
     "3 Resources/AI Fundamentals for Tech Globers/Untitled 1.md",
     "3 Resources/AI Fundamentals for Tech Globers",
     "3 Resources/AI Fundamentals for Tech Globers/AI Fundamentals/Day-to-day playbook.md",
-    "4 Archive/Splunk_Queries/Splunk Queries.md",
     "3 Resources/Generative IA/ChatGPT & Generative AI.md",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comando stats y funciones count y dc.md",
     "3 Resources/AI with GitHub Copilot for Java & Spring Boot Developers/The Fundamentals/The Fundamentals.md",
