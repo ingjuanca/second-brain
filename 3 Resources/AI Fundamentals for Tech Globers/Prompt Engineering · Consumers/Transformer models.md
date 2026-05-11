@@ -16,7 +16,7 @@ Los Transformers constan de dos partes:
 2. **Decodificador (_Decoder_):** Opera sobre la secuencia de salida objetivo. Utiliza el contexto derivado de las codificaciones para generar la secuencia de salida.
     
 
-La traducción no es una simple búsqueda de palabras equivalentes, ya que el orden de las palabras y los giros idiomáticos complican las cosas. Los Transformers funcionan mediante el **aprendizaje de secuencia a secuencia**, donde el modelo toma una secuencia de tokens (palabras) y predice la siguiente palabra en la secuencia de salida.
+La traducción no es una simple búsqueda de palabras equivalentes, ya que el orden de las palabras y los giros idiomáticos complican las cosas. ==Los Transformers funcionan mediante el **aprendizaje de secuencia a secuencia**, donde el modelo toma una secuencia de tokens (palabras) y predice la siguiente palabra en la secuencia de salida==.
 
 ### Características y Ventajas
 
