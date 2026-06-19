@@ -17,6 +17,12 @@
 	13. [[Advanced Overview]]
 	14. [[Key Considerations]]
 2. Web dev fundamentals
+	1. [[Web Dev Fundamentals Overview]]
+	2. [[HTML, CSS & JavaScript Overview]]
+	3. [[HTML Detailed Overview]]
+	4. [[CSS Detailed Overview]]
+	5. [[JavaScript Detailed Overview]]
+	6. [[Advanced JavaScript]]
 3. 2025 Saas Tech Stack
 4. Building Full-Stack Saas with Cursor AI
 5. Claude code
