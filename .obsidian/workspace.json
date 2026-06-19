@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Learn how to build any full-stack application with AI/Introduction/Tech Stack.md",
+                "file": "3 Resources/Learn how to build any full-stack application with AI/Introduction/Languages & Frameworks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech Stack"
+              "title": "Languages & Frameworks"
             }
           }
         ]
@@ -197,6 +197,11 @@
   "active": "746b0e5a9256e435",
   "lastOpenFiles": [
     "3 Resources/Learn how to build any full-stack application with AI/Learn how to build any full-stack application with AI (Cursor AI, Claude Code, v0, ChatGPT, Replit) - Vibe Coding Course.md",
+    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Development Environment.md",
+    "3 Resources/Learn how to build any full-stack application with AI/Introduction/App Types.md",
+    "3 Resources/Learn how to build any full-stack application with AI/Introduction/LLM Overview.md",
+    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Coursework.md",
+    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Tech Stack.md",
     "3 Resources/Learn how to build any full-stack application with AI/Introduction/Program Considerations.md",
     "3 Resources/Learn how to build any full-stack application with AI/Introduction/Introduction.md",
     "3 Resources/Learn how to build any full-stack application with AI/Introduction/Introduction To Course.md",
@@ -206,11 +211,6 @@
     "3 Resources/Learn how to build any full-stack application with AI/Introduction/Front End Overview.md",
     "3 Resources/Learn how to build any full-stack application with AI/Introduction/Front End vs Back End.md",
     "3 Resources/Learn how to build any full-stack application with AI/Introduction/Languages & Frameworks.md",
-    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Development Environment.md",
-    "3 Resources/Learn how to build any full-stack application with AI/Introduction/App Types.md",
-    "3 Resources/Learn how to build any full-stack application with AI/Introduction/LLM Overview.md",
-    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Coursework.md",
-    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Tech Stack.md",
     "3 Resources/Learn how to build any full-stack application with AI/Introduction",
     "3 Resources/Splunk/Comandos y funciones más comunes de SPL/Comando stats y funciones count y dc.md",
     "3 Resources/Learn how to build any full-stack application with AI",
