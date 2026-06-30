@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Learn how to build any full-stack application with AI/Learn how to build any full-stack application with AI (Cursor AI, Claude Code, v0, ChatGPT, Replit) - Vibe Coding Course.md",
-                "mode": "source",
+                "file": "3 Resources/Learn how to build any full-stack application with AI/Introduction/Program Considerations.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learn how to build any full-stack application with AI (Cursor AI, Claude Code, v0, ChatGPT, Replit) - Vibe Coding Course"
+              "title": "Program Considerations"
             }
           }
         ]
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "right": {
     "id": "17ed0a2c66c47875",
@@ -197,6 +198,10 @@
   },
   "active": "60b431b641cc654e",
   "lastOpenFiles": [
+    "3 Resources/Learn how to build any full-stack application with AI/Learn how to build any full-stack application with AI (Cursor AI, Claude Code, v0, ChatGPT, Replit) - Vibe Coding Course.md",
+    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Introduction.md",
+    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Program Considerations.md",
+    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Introduction To Course.md",
     "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack/Git Overview.md",
     "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack/Debugging Workflow.md",
     "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack/Error States.md",
@@ -219,11 +224,7 @@
     "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack/React Overview.md",
     "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack/Language (TypeScript).md",
     "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack/Tech Stack Overview.md",
-    "3 Resources/Learn how to build any full-stack application with AI/Learn how to build any full-stack application with AI (Cursor AI, Claude Code, v0, ChatGPT, Replit) - Vibe Coding Course.md",
     "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack",
-    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Tech Stack.md",
-    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Program Considerations.md",
-    "3 Resources/Learn how to build any full-stack application with AI/Introduction/Introduction.md",
     "Untitled 2.canvas",
     "0 Inbox/Untitled 6.base",
     "3 Resources/Learn how to build any full-stack application with AI/Web dev fundamentals",
