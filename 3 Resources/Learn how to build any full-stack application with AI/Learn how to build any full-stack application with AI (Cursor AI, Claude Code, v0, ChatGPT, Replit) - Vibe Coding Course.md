@@ -24,10 +24,11 @@
 	5. [[JavaScript Detailed Overview]]
 	6. [[Advanced JavaScript]]
 3. 2025 Saas Tech Stack
-4. Building Full-Stack Saas with Cursor AI
-5. Claude code
-6. Replit overview
-7. Building with Replit and Claude
-8. Building with Cursor AI and v0
-9. Building Mobile Apps With Cursor AI and v0
-10. Course Materials and final test
+4. 
+5. Building Full-Stack Saas with Cursor AI
+6. Claude code
+7. Replit overview
+8. Building with Replit and Claude
+9. Building with Cursor AI and v0
+10. Building Mobile Apps With Cursor AI and v0
+11. Course Materials and final test
