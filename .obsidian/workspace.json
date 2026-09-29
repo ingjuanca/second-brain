@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cd836232c9e19d27",
+        "id": "a85b2b504d81161c",
         "type": "tabs",
         "children": [
           {
-            "id": "c1ce9fe34835cf2e",
+            "id": "0c74274f3bc73f76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Resources/Splunk/Busquedas Básicas/Busquedas básicas e interfáz.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Busquedas básicas e interfáz"
-            }
-          },
-          {
-            "id": "07022300a66fc467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/F.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "F"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,9 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07022300a66fc467",
+  "active": "0c74274f3bc73f76",
   "lastOpenFiles": [
+    "2 Areas/Software Architecture/Software Architecture.md",
     "2 Areas/F.md",
+    "2 Areas/Software Architecture",
     "Untitled 4.canvas",
     "0 Inbox/2026-08-03.md",
     "Untitled 3.canvas",
@@ -244,7 +227,6 @@
     "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack/NextJS Structure Example.md",
     "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack/NextJS Routing.md",
     "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack/NextJS Structure.md",
-    "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack/NextJS Overview.md",
     "3 Resources/Learn how to build any full-stack application with AI/2025 Saas Tech Stack",
     "Untitled 2.canvas",
     "0 Inbox/Untitled 6.base",
@@ -252,7 +234,6 @@
     "3 Resources/Learn how to build any full-stack application with AI/Introduction",
     "3 Resources/Learn how to build any full-stack application with AI",
     "3 Resources/AI Fundamentals for Tech Globers/Prompt Engineering · Consumers",
-    "3 Resources/AI Driven Software Development/AI-Assisted Development Foundations",
     "4 Archive/images/Pasted image 20260408151156.png",
     "4 Archive/images/Pasted image 20260407080734.png",
     "Untitled 1.canvas",
